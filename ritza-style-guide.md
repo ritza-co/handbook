@@ -1,5 +1,7 @@
 # The Ritza style guide
 
+![](https://i.ritzastatic.com/images/8669ccb26a744f6489d31fb26d6aecb7/writingablog.png)
+
 We have produced hundreds of technical tutorials, articles, and other educational materials. Our goal is always to *teach*. 
 This often means helping our readers explain complicated technology, either conceptually or by example.
 
