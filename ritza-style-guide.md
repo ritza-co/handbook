@@ -46,3 +46,51 @@ what is being linked to
 
 In the first example, the link could be to a Wikipedia article explaining what a guide is. The second makes it clear that it is a link to the guide that was mentioned.
 
+## Avoid telling the reader that something is obvious or easy
+
+Different people find different things difficult. Avoid telling the reader that something should be 'easy', 'obvious' or 'simple'. In the worst case, they find it hard and find it discouraging. In the best case, they do find it easy and they don't gain anything by you telling them that it was easy.
+
+Mostly, `~it's simple~`. you can `~easily~` `~just~` remove the offending words and the sentence keeps its meaning.
+
+* ❌ Obviously, you can terminate the program at any time by hitting `Ctrl+C`
+* ✅ You can terminate the program at any time by hitting `Ctrl+C`
+
+Sometimes, you need to reword to avoid implying that something is simple
+
+* ❌ It's easy to add new widgets using Acme's tool. Click `menu` -> `add widget`.
+* ✅ To add a new widget using Acme's tool, click `menu` -> `add widget`.
+
+## Structures should be as flat as possible
+
+Articles should using heading 1 (`#` in Markdown) for the title and heading 2 (`##`) to break things down into logical sections. Heading 3 (`###`) can be used where necessary for sub-sections, but in general having a deeply nested structure makes things harder to follow, harder to edit, and harder to reuse. As a writer, your job is to take a complicated graph of interconnected ideas and break them down into a linear structure that can be read from start to end.
+
+You can do this partially (with many nested substructures), which helps readers but still requires them to put in effort, or you can break things down even more cleanly into a single line (harder for the writer, easier for the reader)
+
+![distilling information](https://i.ritzastatic.com/images/6ac86cae2c3a46bcbfcdf5db66d6b0c7/distilling-information.png)
+
+
+## Avoid nested bullets
+
+❌ Don't nest bullets into several levels
+You have several options for adding widgets
+
+* From the menu
+    * by clicking on `file` -> `add widget`
+    * by clicking on `help` searching for `add widget` and hitting `enter`
+* With a keyboard shortcut
+    * by pressing `a` and then `w` in command mode
+    * by pressing `ctrl + a`
+
+✅ Rather restructure to use separate bullet lists
+
+You can add widgets from the menu
+* by clicking on `file` -> `add widget`
+* by clicking on `help` searching for `add widget` and hitting `enter`
+
+or with a keyboard shortcut
+* by pressing `a` and then `w` in command mode
+* by pressing `ctrl + a`
+
+
+
+
