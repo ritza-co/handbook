@@ -93,6 +93,7 @@ or with a keyboard shortcut
 * by pressing `a` and then `w` in command mode
 * by pressing `ctrl + a`
 
+## Avoid 'marketing' speak
 
-
+Never try to sell something to the reader. Don't say a product makes things easy, that a design is beautiful, or use any text that you might find on a SaaS landing page.
 
