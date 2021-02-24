@@ -3,7 +3,7 @@
 - :city_sunset: Company Name: Ritza (https://ritza.co)
 - :world_map: Location: Global
 - :timer_clock: Duration: 20-40h / week, indefinitely
-- :runner::skin-tone-2: Starting: ASAP
+- :runner: Starting: ASAP
 - :moneybag: Rate: You tell us
 - :desktop_computer: Work Description:
 
