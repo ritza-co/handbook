@@ -68,7 +68,7 @@ Articles should using heading 1 (`#` in Markdown) for the title and heading 2 (`
 
 You can do this partially (with many nested substructures), which helps readers but still requires them to put in effort, or you can break things down even more cleanly into a single line (harder for the writer, easier for the reader)
 
-![distilling information](https://i.ritzastatic.com/images/6ac86cae2c3a46bcbfcdf5db66d6b0c7/distilling-information.png)
+![distilling information](/img/distillinginfo.png)
 
 
 ## Avoid nested bullets
