@@ -1,11 +1,11 @@
-Role: TECHNICAL WRITER - Backend (Python, Java, NodeJS)
-:city_sunset: Company Name: Ritza (https://ritza.co)
-:world_map: Location: Global
-:timer_clock: Duration: 20-40h / week, indefinitely
-:runner::skin-tone-2: Starting: ASAP
-:moneybag: Rate: You tell us
-:nerd_face: Contact Person: @Gareth Dwyer
-:desktop_computer: Work Description:
+## TECHNICAL WRITER - Backend (Python, Java, NodeJS)
+
+- :city_sunset: Company Name: Ritza (https://ritza.co)
+- :world_map: Location: Global
+- :timer_clock: Duration: 20-40h / week, indefinitely
+- :runner::skin-tone-2: Starting: ASAP
+- :moneybag: Rate: You tell us
+- :desktop_computer: Work Description:
 
 Build fun proof-of-concept apps, share your expertise with the world, and get paid, while improving your writing skills.
 
