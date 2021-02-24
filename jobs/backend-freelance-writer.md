@@ -13,8 +13,8 @@ You’ll code small projects and teach others how you did it. All of our work is
 
 You should have at least some professional experience with coding and some experience with writing, even if it’s just a personal blog.
 
-Apply by filling out [This form](https://forms.gle/iWTKqA6cgzKePGoL7)
+Apply by filling out [this form](https://forms.gle/iWTKqA6cgzKePGoL7).
 
 Email editor@ritza.co if you have questions with 'BACKEND FREELANCE WRITER' as a subject.
 
-[We are also hiring for several existing and future projects, so feel free to fill out the form if you’re interested in tech writing even if you’re not a perfect fit]
+[We are also hiring for several existing and future projects, so feel free to fill out the form if you’re interested in tech writing even if you’re not a perfect fit.]
