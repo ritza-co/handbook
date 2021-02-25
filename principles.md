@@ -4,18 +4,18 @@ are often more people **overseeing** than **doing**. We are a team of doers: peo
 following companies like Basecamp. We don't 'jump on quick calls' or waste time on Scrum 'ceremonies'. We prefer to tread on a few toes than to hesitate and delay for 
 sign-offs.
 
-## We should have a strong bias for action
+## We have a strong bias for action
 We do what needs to be done and make decisions wherever possible instead of waiting for approval, sign-off, or full consensus.
 
 We do things within days or weeks, not months or years.
 
 We prefer to do a project and then talk about whether it was a good fit than to spend 80% of the time defining a services agreement and then 20% of time executing on it.
 
-## Our quality bar should raise over time
+## Our quality bar gets higher over time
 As we gain trust from various customers, we make ever increasing effort to not abuse this trust. When a customer is not reading every single word (or even 
 every article) that we produce, we need to do *more* quality control ourselves, not less.
 
-## Everything we produce should be free to the world
+## Everything we produce is be free to the world
 We don't take on projects to create e.g. internal syllabus content, internal corporate training, paid courses, or non-free books. Everything we do should be 
 available for free, ideally under a permissive license and in several formats (e.g. HTML, Markdown, ePub, PDF).
 
@@ -26,7 +26,7 @@ Instead, we work with team members regularly in a sustainable and mutually benef
 learning experiences to writers, while also resulting in quality and quantity that could not be produced by any individual. The customer, the writer, and the 
 consumer should all mutually benefit from every article we work on.
 
-## We actively remember that people are human (sad that we have to say this)
+## We actively remember that people are human
 We believe that autonomy and freedom are basic human rights and needs. Many employer-employee relationships are far too close to slavery. We don't do restraint 
 of trades, we don't force people to work at specific times, or in specific locations. We don't tell people what to wear. We don't do performance reviews. We don't 
 try to extract value from our employees or contractors.
