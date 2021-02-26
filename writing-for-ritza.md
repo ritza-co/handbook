@@ -55,7 +55,7 @@ cases.
 This depends a lot on complexity - a 2000 word post can take 2 days or 2 weeks, depending on things like research needed and technical complexity. We always 
 mutually agree deadlines with our writers: usually they propose one that seems manageable to them first, instead of the assigning them arbitrarily. The number of posts a writer can do also depends on their hourly agreement with us. Some examples:
 
-* A writer on a 15h/week contract with us produces, on average, a proof-of-concept application and draft of 2000 words per week (perhaps 5-7 hours on each, with some time for collaboration, editing, updating existing content, etc)
+* A writer on a 15h/week contract with us produces, on average, a proof-of-concept application and draft of 2000 words per week (perhaps 5-7 hours on each the code and writing, with some time for collaboration, editing, updating existing content, etc)
 * A writer on a 4h/week contract with us produces one very in-depth article (5000+ words with extensive code samples) after 4 weeks.
 * A writer on a 30h/week contract with us produces 2 drafts a week for 2 different customers.
 
