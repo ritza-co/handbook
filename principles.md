@@ -15,7 +15,7 @@ We prefer to do a project and then talk about whether it was a good fit than to 
 As we gain trust from various customers, we make ever increasing effort to not abuse this trust. When a customer is not reading every single word (or even 
 every article) that we produce, we need to do *more* quality control ourselves, not less.
 
-## Everything we produce is be free to the world
+## Everything we produce is free to the world
 We don't take on projects to create e.g. internal syllabus content, internal corporate training, paid courses, or non-free books. Everything we do should be 
 available for free, ideally under a permissive license and in several formats (e.g. HTML, Markdown, ePub, PDF).
 
