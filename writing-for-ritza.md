@@ -16,7 +16,7 @@ We produce articles across a wide range of subject areas, but some focus areas i
 Some examples of our work include:
 
 * **[Code With Repl.it](https://codewithrepl.it):** A set of tutorials and ebook for learning to code while using Repl.it
-* **[Code Capsules](https://codecapsules.io/docs/hosting-a-front-end-building-and-deploying-your-portfolio-to-code-capsules/)
+* **[Code Capsules](https://codecapsules.io/docs/hosting-a-front-end-building-and-deploying-your-portfolio-to-code-capsules/):** an example of a project we did for a PaaS provider.
 
 ## What you need to be considered
 
@@ -52,7 +52,7 @@ cases.
 
 ## How does authorship, copyright, and bylines work?
 
-![supporting-vs-supervising](https://cln.sh/fT8HK+)
+![supporting-vs-supervising](https://cln.sh/YhUk2g+)
 
 We think that writing is a team activity, with the author as a central role. We strive to treat authors more like they might be used to from working with book 
 publishers (many other roles support the author) rather than following the process used by content mills (where the author is pulled in different directions by 
