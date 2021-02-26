@@ -50,6 +50,17 @@ We focus on **quality** over speed (we try to avoid 'rush work' or very short de
 sit around between rounds of editing waiting for feedback from different people. The technical and language editing rounds should take no more than 2 days in most 
 cases.
 
+## Frequency and quantity of posts
+
+This depends a lot on complexity - a 2000 word post can take 2 days or 2 weeks, depending on things like research needed and technical complexity. We always 
+mutually agree deadlines with our writers: usually they propose one that seems manageable to them first, instead of the assigning them arbitrarily. The number of posts a writer can do also depends on their hourly agreement with us. Some examples:
+
+* A writer on a 15h/week contract with us produces, on average, a proof-of-concept application and draft of 2000 words per week (perhaps 5-7 hours on each, with some time for collaboration, editing, updating existing content, etc)
+* A writer on a 4h/week contract with us produces one very in-depth article (5000+ words with extensive code samples) after 4 weeks.
+* A writer on a 30h/week contract with us produces 2 drafts a week for 2 different customers.
+
+In many cases, we like to go from idea->shipped as early as possible. We like 'working in public', so we would prefer to make incomplete work public and get feedback on it then to spend weeks polishing it internally only to realise that no one really cares.
+
 ## How does authorship, copyright, and bylines work?
 
 ![supporting-vs-supervising](https://cln.sh/YhUk2g+)
