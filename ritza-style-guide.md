@@ -33,7 +33,7 @@ It's ok to refer to the reader as 'you' in some cases, where the writer is clear
 
 ## Default to active voice
 
-Today's readers often scan a page instead of reading it. Aim to use active voice rather than passive, as it means the reader can pick up more info from a quick scan over the content. 
+This is often taken as a hard-and-fast rule. It isn't. In many cases, active voice makes it clearer who is doing what and sounds less stuffy. That said, sometimes passive is simply cleaner (often in cases where there isn't a specific subject) - use your judgement.
 
 * ⚠️ The command will be run by the shell.
 * ✅ Use the shell to run any commands.
@@ -52,7 +52,7 @@ In the first example, the link could be to a Wikipedia article explaining what a
 
 Different people find different things difficult. Avoid telling the reader that something should be 'easy', 'obvious' or 'simple'. In the worst case, they find it hard and find it discouraging. In the best case, they do find it easy and they don't gain anything by you telling them that it was easy.
 
-Mostly, `~it's simple~`. you can `~easily~` `~just~` remove the offending words and the sentence keeps its meaning.
+Mostly, `~it's simple~`. You can `~easily~` `~just~` remove the offending words and the sentence keeps its meaning.
 
 * ❌ Obviously, you can terminate the program at any time by hitting `Ctrl+C`
 * ✅ You can terminate the program at any time by hitting `Ctrl+C`
@@ -74,6 +74,7 @@ You can do this partially (with many nested substructures), which helps readers 
 ## Avoid nested bullets
 
 ❌ Don't nest bullets into several levels
+
 You have several options for adding widgets
 
 * From the menu
