@@ -6,11 +6,13 @@ your contact details, and our contact details. It should also contain your inter
 ### Contact details
 Please make the invoice out to 
 
+```
 Ritza
 Herestraat 106
 9711LM
 Groningen
 The Netherlands
+```
 
 and email it in PDF format to invoices@ritza.co
 
