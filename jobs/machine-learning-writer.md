@@ -1,4 +1,4 @@
-## TECHNICAL WRITER - Machine Learning (TensorFlow, PyTorch, MLFlow, Kubernetes)
+## TECHNICAL WRITER - Machine Learning (TensorFlow, PyTorch, MLFlow, Kubernetes, etc)
 
 - :city_sunset: Company Name: Ritza (https://ritza.co)
 - :world_map: Location: Global
