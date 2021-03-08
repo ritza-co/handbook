@@ -1,4 +1,4 @@
-## TECHNICAL WRITER - Backend (Python, Java, NodeJS)
+## TECHNICAL WRITER - Machine Learning (TensorFlow, PyTorch, MLFlow, Kubernetes)
 
 - :city_sunset: Company Name: Ritza (https://ritza.co)
 - :world_map: Location: Global
@@ -11,7 +11,7 @@ Build fun proof-of-concept apps, share your expertise with the world, and get pa
 
 You’ll code small projects and teach others how you did it. All of our work is made freely available to the world. Work with a team of experienced writers and editors, in a flexible, asynchronous, fully remote environment.
 
-You should have at least some professional experience with coding and some experience with writing, even if it’s just a personal blog.
+You should have at least some professional experience with coding and some experience with writing, even if it’s just a personal blog. Ideally you have experience with *production* machine learning, from designing experiments through to shipping them at scale.
 
 Apply by filling out [this form](https://forms.gle/iWTKqA6cgzKePGoL7).
 
