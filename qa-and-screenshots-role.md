@@ -12,6 +12,14 @@ demonstrate what the app or project will look like once the reader has finished 
 
 We use CleanShotX for all of our screenshots. Ask for a license key if you do not have one.
 
+## Making changes
+
+The QA engineer should submit several pull requests, depending on what is needed.
+
+* One pull request to include a version of the author's tutorial and code **exactly as they provided it**. This step can be skipped if the author already made a pull request to the correct place, but often the author works in a different format or on their own GitHub. This should be in a branch called something like `add-first-draft-chat-bot-tutorial`. This is exactly the author's work.
+* A second pull request for text and/or code changes. If anything isn't clear or the QA engineer finds something confusing, they should submit suggested changes, as a separate pull request (to the version in our GitHub, not to the author's original version. If necessary, they can ask clarifying questions to the author, but in general they should aim to use their judgement so we can keep moving forwards without reverting back to the author.
+* A third pull request to add and update the images.
+
 ## Adding captions and alt text
 
 All screenshots should have relevant alt text that can help with accessibility - e.g. blind people have these read to them by screenreaders. In markdown, alt-text 
