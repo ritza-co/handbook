@@ -31,6 +31,34 @@ It's ok to refer to the reader as 'you' in some cases, where the writer is clear
 * ⚠️ "As you might remember from the [previous tutorial](#), widget factories create widgets. In this tutorial..."
 * ✅ "In the previous tutorial, we saw how widget factories create widgets. In this tutorial..."
 
+## Avoid anything you might find in an encyclopaedia or academic paper
+
+Most people have been taught to write "wrong" at school. You should watch [this video](https://www.youtube.com/watch?v=vtIzMaLkCaM) if you have time, but in short
+
+Don't use anything that you might find at the start of a Wikipedia article or a dictionary. Your reader isn't interested in definitions - or if they are they can easily find these elsewhere. 
+
+If you're writing an article on NER, instead of starting with
+
+❌ "Named Entity Recognition (NER) is the task of categorising key words in a text as specific entities."
+
+Consider something more like 
+
+✅ "If you're analyzing a large amount of text, it's often useful to extract named entities from this - identifying people, places, dates and other entities."
+
+If you've ever tried to learn a new concept, you probably already know that reading a definition doesn't really clarify - but a more specific exmaple does.
+
+## Don't give extraneous context
+
+Often it's tempting to try and give the reader some related context or information. Generally avoid this. The reader isn't here to learn about knowledge in general, but usually on how to achieve a more specific goal.
+
+Instead of
+
+❌ Label Studio is an open source data labeling tool for labeling and exploring multiple types of data. Label Studio can be integrated with machine learning models to supply predictions for labels (pre-labels), or perform continuous active learning. You can use LabelStudio for a variety of labelling and classification tasks for many different data formats but again we will just be focusing on its NER capabilities.
+
+Try something more concise:
+
+✅ We can use Label Studio for manually tagging Named Entities in our dataset. Install it now with `pip install label-studio` if you haven't already.
+
 ## Default to active voice
 
 This is often taken as a hard-and-fast rule. It isn't. In many cases, active voice makes it clearer who is doing what and sounds less stuffy. That said, sometimes passive is simply cleaner (often in cases where there isn't a specific subject) - use your judgement.
