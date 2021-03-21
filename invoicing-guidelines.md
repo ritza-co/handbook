@@ -1,6 +1,6 @@
 # Invoicing guidelines
 
-Your invoice needs to follow some standard requirements, including: the invoice date, a description of services provided, a sequential invoice number
+Your invoice needs to follow some standard requirements, including: the invoice date, a description of services provided, a sequential invoice number,
 your contact details, and our contact details. It should also contain your international bank details (see note about countries we can pay to below).
 
 ### Contact details
@@ -25,7 +25,7 @@ need to fill out a short online form which will be emailed to you after the paym
 
 ## Dates
 
-We invoices on the last working day of every calendar month. Please allow 3-5 days for the balance to reflect in your account. We use Wise (formerly TransferWise) 
+We invoice on the last working day of every calendar month. Please allow 3-5 days for the balance to reflect in your account. We use Wise (formerly TransferWise) 
 for all payments, so the payment will reflect instantly if you use them for incoming payments.
 
 
