@@ -25,7 +25,7 @@ need to fill out a short online form which will be emailed to you after the paym
 
 ## Dates
 
-We invoice on the last working day of every calendar month. Please allow 3-5 days for the balance to reflect in your account. We use Wise (formerly TransferWise) 
+We process invoices on the last working day of every calendar month. Please allow 3-5 days for the balance to reflect in your account. We use Wise (formerly TransferWise) 
 for all payments, so the payment will reflect instantly if you use them for incoming payments.
 
 
