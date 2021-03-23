@@ -31,28 +31,46 @@ It's ok to refer to the reader as 'you' in some cases, where the writer is clear
 * ⚠️ "As you might remember from the [previous tutorial](#), widget factories create widgets. In this tutorial..."
 * ✅ "In the previous tutorial, we saw how widget factories create widgets. In this tutorial..."
 
+## Avoid anything you might find in an encyclopaedia or academic paper
+
+Most people have been taught to write "wrong" at school. You should watch [this video](https://www.youtube.com/watch?v=vtIzMaLkCaM) if you have time, but in short
+
+Don't use anything that you might find at the start of a Wikipedia article or a dictionary. Your reader isn't interested in definitions - or if they are they can easily find these elsewhere. 
+
+If you're writing an article on NER, instead of starting with
+
+❌ "Named Entity Recognition (NER) is the task of categorising key words in a text as specific entities."
+
+Consider something more like 
+
+✅ "If you're analyzing a large amount of text, it's often useful to extract named entities from this - identifying people, places, dates and other entities."
+
+If you've ever tried to learn a new concept, you probably already know that reading a definition doesn't really clarify - but a more specific exmaple does.
+
+## Don't give extraneous context
+
+Often it's tempting to try and give the reader some related context or information. Generally avoid this. The reader isn't here to learn about knowledge in general, but usually on how to achieve a more specific goal.
+
+Instead of
+
+❌ Label Studio is an open source data labeling tool for labeling and exploring multiple types of data. Label Studio can be integrated with machine learning models to supply predictions for labels (pre-labels), or perform continuous active learning. You can use LabelStudio for a variety of labelling and classification tasks for many different data formats but again we will just be focusing on its NER capabilities.
+
+Try something more concise:
+
+✅ We can use Label Studio for manually tagging Named Entities in our dataset. Install it now with `pip install label-studio` if you haven't already.
+
 ## Default to active voice
 
-Today's readers often scan a page instead of reading it. Aim to use active voice rather than passive, as it means the reader can pick up more info from a quick scan over the content. 
+This is often taken as a hard-and-fast rule. It isn't. In many cases, active voice makes it clearer who is doing what and sounds less stuffy. That said, sometimes passive is simply cleaner (often in cases where there isn't a specific subject) - use your judgement.
 
 * ⚠️ The command will be run by the shell.
 * ✅ Use the shell to run any commands.
-
-## Link as much context as useful
-
-Choosing what text to link out to an additional resource is more an art than a science. The main rule is that it should be as clear as possible to the reader
-what is being linked to
-
-* ❌ You can follow the widget [guide](#) to learn more
-* ✅ You can follow the [widget guide](#) to learn more
-
-In the first example, the link could be to a Wikipedia article explaining what a guide is. The second makes it clear that it is a link to the guide that was mentioned.
 
 ## Avoid telling the reader that something is obvious or easy
 
 Different people find different things difficult. Avoid telling the reader that something should be 'easy', 'obvious' or 'simple'. In the worst case, they find it hard and find it discouraging. In the best case, they do find it easy and they don't gain anything by you telling them that it was easy.
 
-Mostly, `~it's simple~`. you can `~easily~` `~just~` remove the offending words and the sentence keeps its meaning.
+Mostly, `~it's simple~`. You can `~easily~` `~just~` remove the offending words and the sentence keeps its meaning.
 
 * ❌ Obviously, you can terminate the program at any time by hitting `Ctrl+C`
 * ✅ You can terminate the program at any time by hitting `Ctrl+C`
@@ -74,6 +92,7 @@ You can do this partially (with many nested substructures), which helps readers 
 ## Avoid nested bullets
 
 ❌ Don't nest bullets into several levels
+
 You have several options for adding widgets
 
 * From the menu
@@ -96,4 +115,44 @@ or with a keyboard shortcut
 ## Avoid 'marketing' speak
 
 Never try to sell something to the reader. Don't say a product makes things easy, that a design is beautiful, or use any text that you might find on a SaaS landing page.
+
+## Link as Much Context as is Useful
+
+Choosing what text to link out to an additional resource is more an art than a science. The main rule is that it should be as clear as possible to the reader what is being linked to, but keep it simple. 
+
+* ❌ "[You can follow the widget guide](#) to learn more"
+* ❌ "You can follow the widget [guide](#) to learn more"
+* ✅ "You can follow the [widget guide](#) to learn more"
+
+The first example links too much unnecessary wording. In the second example, the link could be to a Wikipedia article explaining what a guide is. The third makes it clear that it is a link to the guide that was mentioned.
+
+## Don't Assume Knowledge
+
+This can be tricky because, of course, you always have to assume _some_ level of knowledge when writing technical content. However, we try avoid assumptions about our reader's skill level. 
+
+* ❌ "Referring back to the server code, it's obvious that we need both a success.html and a cancel.html."
+* ✅ "Referring back to the server code, you may notice it requires both a success.html and a cancel.html."
+
+## Include User-friendly Code Samples
+
+We want to tell the reader exactly _what_ code needs to go _where_, and make it easy to repeat what we are doing. Avoid screenshots of code, and rather present code samples in text, between backtick gates with a language description.
+
+**Avoid long code snippets**
+Instead of giving an entire file to copy-paste, break down the code into several steps if possible.
+
+**Provide a file, if you must**
+If there's a lot of ‘boilerplate’ code, consider providing the file in a repl and instruct the reader to copy the whole thing as a starting point. However, it's preferable to avoid this if you can.
+
+## Use Screenshots Strategically
+Screenshots are super helpful tools for tutorials, but using them too often or without clarity may just make it harder for the reader to follow your instructions. 
+ 
+* ✅ Use contextual screenshots to help readers navigate whichever platform you are directing them to.
+* ✅ Use a screenshot to demonstrate what your reader should be seeing if they correctly followed your instructions. 
+* ✅ Make use of [1], [2], [3] annotations if several things need to be shown from a single shot.
+* ✅ Preferably take screenshots using a 4k/retina screen, or consider using a virtual high-res screen through Chrome dev tools as an alternative.
+* ✅ For Mac, use CleanShotX if possible
+
+* ❌ Avoid screenshots of large amounts of text. Rather use a caption if you need to present text to your reader. 
+* ❌ Avoid screenshots that show too little; for example, just the button they must click. Where is this button in relation to the page? 
+* ❌ At the same time, don't include so much in the screenshot that the reader isn't sure what you are trying to illustrate.
 
