@@ -30,12 +30,14 @@ But these are not hard requirements, so if you have a strong interest in both we
 
 ## How we work with writers
 
-We are not a freelance market place, so nearly all of our writers work with us regularly, not on one-off projects. Our preferred method is 
+We are not a freelance marketplace, so nearly all of our writers work with us regularly, not on one-off projects. We think that writing 40h/week is a sure way to get burned out and we value the industry experience that our writers have too. A majority of our writers work with us on retainer agreements for a fixed number of hours per week. This is *not* in addition to a full time job - we don't believe that anyone should work for more than 40h/week, so most of our writers are part time or freelance engineers, or they have other priorities in life like spending more time with their families and therefore a part time arrangement works out well for them. 
+
+Our preferred method of hiring is 
 
 * We look at your application (possibly including CV, writing samples, code portfolio, motivation letter though none are compulsory)
 * If we like it, we arrange a short, informal call to get to know you a bit better
 * If we like each other after that, we contract you to do a trial article (around 2000 words)
-* If we like each other after that, we agree to a monthly retainer (you work 10-30 hours/month for us for a fixed fee)
+* If we like each other after that, we agree to a monthly retainer (you work 10-30 hours/month for us for a fixed monthly fee)
 
 ## How our writing process works
 
