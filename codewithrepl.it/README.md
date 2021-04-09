@@ -15,4 +15,15 @@ To add a new article, create a similar pull request to https://github.com/ritza-
 
 Note that we have been editing the .css and .html files directly instead of following the original NodeJS build process.
 
+## Updating the book
+
+Each article is also copied into https://github.com/ritza-co/code-with-replit-book/. These are *almost* the same as the online versions, but 
+
+* We add a paragraph at the end of each chapter to introduce the next chapter
+* Gifs are replaced by a single PNG and include a link for the reader to open the .gif if they are reading the book online. If the gif is not that important for following the tutorial, you can simply replace it with a .png and skip adding a link to the full gif 
+
+![image](https://user-images.githubusercontent.com/2641205/114161514-73794100-9928-11eb-8555-eb14f731602f.png)
+
+Merge the changes into the GitHub repository and then regenerate the book on LeanPub. Download the *unbranded* epub, mobi and pdfs and upload them to the Digital Ocean space.
+
 
