@@ -2,7 +2,7 @@
 
 Write. The first millions words are the hardest.
 
-<img width="611" alt="image" src="https://user-images.githubusercontent.com/2641205/114298377-638f6780-9ab6-11eb-8f48-e9ced636f79e.png">
+<a href="https://twitter.com/patio11/status/1199409126645723136"><img width="611" alt="image" src="https://user-images.githubusercontent.com/2641205/114298377-638f6780-9ab6-11eb-8f48-e9ced636f79e.png"></a>
 
 
 * Watch [The Craft of Writing Effectively](https://www.youtube.com/watch?v=vtIzMaLkCaM) by Larry McEnerney
