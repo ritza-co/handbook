@@ -7,3 +7,7 @@ We do "standups" asynchronously on Slack, preferably daily. Standups are to
 Standups are **not** there to monitor you or make sure you are doing "enough", so don't feel pressured by them.
 
 Standups are optional but encouraged. I use mine as my own to-do list for the day and check back on it during the day and often the day after (while I am writing the next one) as a way of keeping track and adjusting/correcting my own time estimates.
+
+-- 
+
+**Why "standups"?** In colocated dev teams it's common to do this at the same each morning. The entire team stands up (which is intended to help ensure that no one talks for too long) and gives a short update on what they're working on and anything they need help with). In distributed, async teams the terminology doesn't make as much sense, but sitting is unhealthy so if you have a standing desk or similar feel free to use the name as a reminder to stand up for a while :) 
