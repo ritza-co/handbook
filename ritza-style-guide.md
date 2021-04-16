@@ -143,7 +143,7 @@ Instead of giving an entire file to copy-paste, break down the code into several
 **Provide a file, if you must**
 If there's a lot of ‘boilerplate’ code, consider providing the file in a repl and instruct the reader to copy the whole thing as a starting point. However, it's preferable to avoid this if you can.
 
-## Use Screenshots Strategically
+## Annotate screenshots and use context
 Screenshots are super helpful tools for tutorials, but using them too often or without clarity may just make it harder for the reader to follow your instructions. 
  
 * ✅ Use contextual screenshots to help readers navigate whichever platform you are directing them to.
@@ -155,4 +155,20 @@ Screenshots are super helpful tools for tutorials, but using them too often or w
 * ❌ Avoid screenshots of large amounts of text. Rather use a caption if you need to present text to your reader. 
 * ❌ Avoid screenshots that show too little; for example, just the button they must click. Where is this button in relation to the page? 
 * ❌ At the same time, don't include so much in the screenshot that the reader isn't sure what you are trying to illustrate.
+
+## Prefer code blocks to inline code
+
+It's ok to use markdown's single back-tick syntax to highlight a single word like "Notice the `for` statement below". For any code samples, even if only one line, rather use three backticks and have the code on its own line and in its own section.
+
+❌ Now run `python3 app.py`
+
+✅ Now run:
+
+````
+```
+python3 app.py
+```
+````
+
+
 
