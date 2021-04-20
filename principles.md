@@ -11,6 +11,8 @@ We do things within days or weeks, not months or years.
 
 We prefer to do a project and then talk about whether it was a good fit than to spend 80% of the time defining a services agreement and then 20% of time executing on it.
 
+This is linked to Python's "[It's easier to ask for forgiveness than permission](https://stackoverflow.com/questions/12265451/ask-forgiveness-not-permission-explain)" and "[lazy consensus](https://community.apache.org/committers/lazyConsensus.html)" from Apache.
+
 ## Our quality bar gets higher over time
 As we gain trust from various customers, we make ever increasing effort to not abuse this trust. When a customer is not reading every single word (or even 
 every article) that we produce, we need to do *more* quality control ourselves, not less.
