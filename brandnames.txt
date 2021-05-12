@@ -1,5 +1,6 @@
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
 DigitalOcean (not Digital Ocean)
+GitHub (not Github, Git Hub, github, git hub)
 Hashnode (not HashNode, Hash node, hashnode, hash node)
 JavaScript (not Javascript, Java Script, java script, javascript)
 Label Studio (not labelstudio, LabelStudio, LabelStud.io, label studio)
@@ -11,5 +12,4 @@ Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
 WebSockets (not websockets, web sockets, Websockets, Web Sockets)
-GitHub (not Github, Git Hub, github, git hub)
 
