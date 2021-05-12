@@ -10,4 +10,6 @@ Replit (Not repl.it, Repl.it, replit)
 Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
+WebSockets (not websockets, web sockets, Websockets, Web Sockets)
+GitHub (not Github, Git Hub, github, git hub)
 
