@@ -47,6 +47,10 @@ Consider something more like
 
 If you've ever tried to learn a new concept, you probably already know that reading a definition doesn't really clarify - but a more specific exmaple does.
 
+## Avoid guessing out loud what the reader wants
+
+It's tempting to start an article with "Are you are a foo who likes to bar but sometimes finds baz?", but in most cases these define a much narrower audience than the actual audience, and you risk alienating anyone who does not fit that identify (and they might stop reading after the first setence, even if the article would have helped them).
+
 ## Don't give extraneous context
 
 Often it's tempting to try and give the reader some related context or information. Generally avoid this. The reader isn't here to learn about knowledge in general, but usually on how to achieve a more specific goal.
