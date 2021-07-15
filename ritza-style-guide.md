@@ -92,6 +92,11 @@ You can do this partially (with many nested substructures), which helps readers 
 
 ![distilling information](/img/distillinginfo.png)
 
+## Always have content between headings
+
+<img width="780" alt="image" src="https://user-images.githubusercontent.com/2641205/125809961-48700cf3-4902-4b80-a592-0550494c66e5.png">
+
+
 
 ## Avoid nested bullets
 
