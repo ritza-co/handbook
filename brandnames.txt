@@ -9,6 +9,7 @@ macOS (not macos, MacOS, Mac OS - previously OS X)
 NixOS, Nix, Nix language (not nix)
 Node.js (not NodeJS, node, Nodejs, Node.JS)
 pandas (not Pandas), unless at the start of a sentence
+OAuth 2.0 (not oAuth2.0)
 Replit (not repl.it, Repl.it, replit)
 Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
