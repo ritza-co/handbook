@@ -1,4 +1,4 @@
-# The Ritza style guide
+# 📝 The Ritza style guide
 
 ![](https://i.ritzastatic.com/images/8669ccb26a744f6489d31fb26d6aecb7/writingablog.png)
 

@@ -1,3 +1,6 @@
+# Brandnames 
+
+```
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
 DigitalOcean (not Digital Ocean)
 GitHub (not Github, Git Hub, github, git hub)
@@ -16,4 +19,4 @@ spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
 Webflow (not Web Flow, WebFlow, webflow, web flow)
 WebSockets (not websockets, web sockets, Websockets, Web Sockets)
-
+```

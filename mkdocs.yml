@@ -1,0 +1,30 @@
+site_name: Ritza Handbook
+site_url: https://ritza.co/handbook
+
+theme:
+  features:
+    - navigation.indexes
+    - navigation.tabs
+    - navigation.sections
+  name: material
+  logo: assets/ritzalogo.png
+
+  palette:
+    - scheme: default
+      primary: white
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+    - scheme: slate
+      primary: white
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+
+
+extra:
+  generator: false
