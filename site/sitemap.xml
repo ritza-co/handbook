@@ -2,137 +2,127 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://ritza.co/handbook/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/admin/invoicing-guidelines/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/choosing-a-topic/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/communication-guidelines/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/one-on-ones/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/principles/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/standups/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/how-we-work/writing-for-ritza/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/improving-your-writing/how-do-I-become-a-better-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/improving-your-writing/how-do-I-become-a-good-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ritza.co/handbook/jobs/backend-freelance-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ritza.co/handbook/jobs/machine-learning-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ritza.co/handbook/project-specific-docs/finalising-a-tutorial/</loc>
-         <lastmod>2021-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ritza.co/handbook/project-specific-docs/git-setup/</loc>
-         <lastmod>2021-08-03</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://ritza.co/handbook/project-specific-docs/working-from-latest-version/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/project-specific-docs/beginnerpythonprojects.com/adding-an-article/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/project-specific-docs/codecapsules/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/project-specific-docs/codecapsules/copying-from-github-to-ghost/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/project-specific-docs/codewithrepl.it/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritza.co/handbook/project-specific-docs/replit/finalising-a-tutorial/</loc>
+         <lastmod>2021-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritza.co/handbook/project-specific-docs/replit/git-setup/</loc>
+         <lastmod>2021-08-06</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://ritza.co/handbook/project-specific-docs/replit/working-from-latest-version/</loc>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/roles/backend-freelance-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/roles/machine-learning-writer/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/roles/qa-and-screenshots-role/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/roles/qa-to-language-edit/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/style-guide/Style/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/style-guide/brandnames/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/style-guide/common-writing-mistakes/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://ritza.co/handbook/style-guide/grammar/</loc>
-         <lastmod>2021-08-03</lastmod>
+         <lastmod>2021-08-06</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
