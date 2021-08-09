@@ -27,5 +27,9 @@ Yep, and it's the hardest part of tutorial writing. Predicting at which point yo
 It's hard to say something meaningful in less than around 1500-2000 words. If you 'run out' of things to say at < 1000 words, it's likely that you need to either a) make the project a bit more complicated or b) explain some of the steps in more detail.
 
 
+## #5 They provide information that is accurate but only useful if the reader already understands it
+
+Often once a writer has done enough research to understand a topic, they provide a very terse (correct) explanation, but one which they would initially have found confusing without the previous research. You should constantly be aware of and fight the 'curse of knowledge' - try to provide the resource that you *would* have wanted without your current knowledge.
+
 
 
