@@ -115,10 +115,12 @@ You have several options for adding widgets
 ✅ Rather restructure to use separate bullet lists
 
 You can add widgets from the menu
+
 * by clicking on `file` -> `add widget`
 * by clicking on `help` searching for `add widget` and hitting `enter`
 
 or with a keyboard shortcut
+
 * by pressing `a` and then `w` in command mode
 * by pressing `ctrl + a`
 
