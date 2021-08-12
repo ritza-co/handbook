@@ -14,6 +14,7 @@ Node.js (not NodeJS, node, Nodejs, Node.JS)
 pandas (not Pandas), unless at the start of a sentence
 OAuth 2.0 (not oAuth2.0)
 Replit (not repl.it, Repl.it, replit)
+Socket.IO (not Socket.io, socket.io, Socket)
 Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
