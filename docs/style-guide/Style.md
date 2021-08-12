@@ -1,7 +1,5 @@
 # 📝 The Ritza style guide
 
-![](https://i.ritzastatic.com/images/8669ccb26a744f6489d31fb26d6aecb7/writingablog.png)
-
 We have produced hundreds of technical tutorials, articles, and other educational materials. Our goal is always to *teach*. 
 This often means helping our readers explain complicated technology, either conceptually or by example.
 
@@ -90,12 +88,15 @@ Articles should using heading 1 (`#` in Markdown) for the title and heading 2 (`
 
 You can do this partially (with many nested substructures), which helps readers but still requires them to put in effort, or you can break things down even more cleanly into a single line (harder for the writer, easier for the reader)
 
-![distilling information](/img/distillinginfo.png)
+![distilling information](./img/distillinginfo.png)
 
 ## Always have content between headings
 
-<img width="780" alt="image" src="https://user-images.githubusercontent.com/2641205/125809961-48700cf3-4902-4b80-a592-0550494c66e5.png">
+Don't have a subheading immediately below a heading without any text in between.
 
+![no space heading](./img/no-space-heading.png)
+
+Rather add a short sentence to introduce the section, or try to restructure to use fewer headings (also do not use this as an excuse to add 'fluff' text that adds no value to the article).
 
 
 ## Avoid nested bullets
