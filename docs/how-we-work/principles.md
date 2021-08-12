@@ -25,8 +25,7 @@ available for free, ideally under a permissive license and in several formats (e
 It's pretty easy to land large contracts, pass these on to cheaper freelancers and pocket the difference. This is extracting value and we don't do this.
 
 Instead, we work with team members regularly in a sustainable and mutually beneficial way. We provide a team, and opioninated way of working, and substantive
-learning experiences to writers, while also resulting in quality and quantity that could not be produced by any individual. The customer, the writer, and the 
-consumer should all mutually benefit from every article we work on.
+learning experiences to writers, while also resulting in quality and quantity that could not be produced by any individual. The customer, the writer and production team, and the reader should all mutually benefit from every article we work on.
 
 ## We actively remember that people are human
 We believe that autonomy and freedom are basic human rights and needs. Many employer-employee relationships are far too close to slavery. We don't do restraint 
@@ -40,15 +39,5 @@ from a place of mutual respect, and not from a position of power to someone who 
 
 ## We value potential over fungibility
 At many larger corporations, it is preferable for employees to constantly 'perform' at a predictable 20% of their potential rather than allowinng some people to
-(unpredictably) reach 80-100% some of the time. It is a priority that if any individual leaves that they can easily be replaced. While we make hard commitments 
+(unpredictably) reach 80-100% some of the time. It is a priority that if any individual leaves that they can easily be replaced (they are fungible). While we make hard commitments with our customers  
 and keep to these, this predictability and stability is not achieved at the cost of limiting upside potential through excessive process or safety rails.
-
-
-
-
-
-
-
-
-
-
