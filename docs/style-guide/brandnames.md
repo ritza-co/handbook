@@ -19,5 +19,5 @@ Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
 Webflow (not Web Flow, WebFlow, webflow, web flow)
-WebSockets (not websockets, web sockets, Websockets, Web Sockets)
+WebSocket (not websocket, web socket, Websocket, Web Socket, WebSockets)
 ```
