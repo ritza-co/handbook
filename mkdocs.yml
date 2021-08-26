@@ -25,6 +25,5 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
 
-
 extra:
   generator: false
