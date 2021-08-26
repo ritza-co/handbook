@@ -39,6 +39,6 @@ A file download
 [Download the .zip file](../assets/working-on-internal-articles/my-zip-file.zip)
 
 An image
-![How to download a zip file](../assets/how-to-download-zip.png)
+![How to download a zip file](../assets/working-on-internal-articles/how-to-download-zip.png)
 ```
 
