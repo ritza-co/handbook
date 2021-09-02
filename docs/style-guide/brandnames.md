@@ -3,6 +3,7 @@
 ```
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
 DigitalOcean (not Digital Ocean)
+Express (not express, express.js, Express.js)
 GitHub (not Github, Git Hub, github, git hub)
 Hashnode (not HashNode, Hash node, hashnode, hash node)
 JavaScript (not Javascript, Java Script, java script, javascript)
