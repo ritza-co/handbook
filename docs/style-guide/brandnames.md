@@ -10,10 +10,12 @@ JavaScript (not Javascript, Java Script, java script, javascript)
 Label Studio (not labelstudio, LabelStudio, LabelStud.io, label studio)
 LaTeX (not Latex, latex, LATEX)
 macOS (not macos, MacOS, Mac OS - previously OS X)
+NGINX (not nginx, Nginx, NginX)
 NixOS, Nix, Nix language (not nix)
 Node.js (not NodeJS, node, Nodejs, Node.JS)
-pandas (not Pandas), unless at the start of a sentence
 OAuth 2.0 (not oAuth2.0)
+pandas (not Pandas), unless at the start of a sentence
+pip (not PIP or Pip)
 Replit (not repl.it, Repl.it, replit)
 scikit-learn (not Scikit-Learn, SciKit, scikitlearn)
 Socket.IO (not Socket.io, socket.io, Socket)
