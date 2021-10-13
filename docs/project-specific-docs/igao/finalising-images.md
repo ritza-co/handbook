@@ -20,7 +20,7 @@ This only needs to be done for the internal images, not the cheatsheet.
 
 ## Optimizing the images
 
-Once it's resized, you can go to https://tinypng.com and upload all the images (including the cheatsheet). This reduces the colour variation to optimize the file size without further reducing the dimensions.
+Once it's resized, you can go to [tinypng](https://tinypng.com) and upload all the images (including the cheatsheet). This reduces the colour variation to optimize the file size without further reducing the dimensions.
 
 ## Adding the images to the Google doc
 
