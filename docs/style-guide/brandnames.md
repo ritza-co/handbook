@@ -14,6 +14,7 @@ NGINX (not nginx, Nginx, NginX)
 NixOS, Nix, Nix language (not nix)
 Node.js (not NodeJS, node, Nodejs, Node.JS)
 OAuth 2.0 (not oAuth2.0)
+oEmbed (not OEmbed, oembed)
 pandas (not Pandas), unless at the start of a sentence
 pip (not PIP or Pip)
 Replit (not repl.it, Repl.it, replit)
