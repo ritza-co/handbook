@@ -2,8 +2,10 @@
 
 ```
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
+dateutil (not Dateutil)
 DigitalOcean (not Digital Ocean)
 Express (not express, express.js, Express.js)
+feedparser (not Feedparser)
 GitHub (not Github, Git Hub, github, git hub)
 Hashnode (not HashNode, Hash node, hashnode, hash node)
 JavaScript (not Javascript, Java Script, java script, javascript)
@@ -16,6 +18,7 @@ Node.js (not NodeJS, node, Nodejs, Node.JS)
 OAuth 2.0 (not oAuth2.0)
 pandas (not Pandas), unless at the start of a sentence
 pip (not PIP or Pip)
+PyPI (not pypi, Pypi, PyPi)
 Replit (not repl.it, Repl.it, replit)
 scikit-learn (not Scikit-Learn, SciKit, scikitlearn)
 Socket.IO (not Socket.io, socket.io, Socket)
