@@ -1,27 +1,108 @@
 # Drag game objects with Kaboom 
 
-Introduce Kaboom and write a brief description of what the tutorial covers. 
+Creating simple games is easy and fun with Kaboom.
 
-You can find the link to the code at https://replit.com/@ritza/name-of-tutorial
+In this tutorial, we're going to see how to drag game objects, also known as sprites. You can find the link to the code at https://replit.com/@ritza/drag-sprite-tutorial or check out the embedded code at the bottom of this tutorial.
 
-## Explain the code
+## Things to consider
 
-This explanation can take many different formats. Ideally, it's worth breaking up the code in relevant sections and explaining each section of code to make it easier for the reader to understand and absorb the information.
+The main things that we want to consider about the code are as follows:
 
-You're welcome to include extra headings as you see fit.
+- We want to keep track of the sprite we're dragging
+- We want to create a custom component for handling drag and drop behaviour
+- We want to add sprites that are draggable
 
-Furthermore, to improve formatting, you can enclose function, variable and code-related names etc used inline within backticks e.g. `add()`. For longer code snippets, you can use three backticks e.g. 
+## Getting started with the code
+
+The first thing we want to do to is load the `kaboom()` library and initialize a kaboom context.
 
 ```
-add();
+import kaboom from "kaboom";
 
-const SPEED = 320;
+kaboom()
+```
+
+Next, we want to keep track of the current object we're dragging. To start, `curDraggin` is `null`.
+
+```
+let curDraggin = null
+```
+
+In Kaboom, each game object comprises a list of components that define the functionality of that object, which are assembled in the `add()` function. As a result, we're going to create a custom component that allows us to handle drag and drop behaviour. We're going to create a function called `drag()` in which we'll assemble all the components required to drag and drop objects. 
+
+This function is responsible for keeping track of the position of the mouse and that of the object we're currently dragging. The position is represented as a 2D vector (vec2), using X and Y coordinates.
+
+The code below shows the `drag()` function:
+
+```
+function drag() {
+
+	// The displacement between object pos and mouse pos
+	let offset = vec2(0)
+
+	return {
+		// Name of the component
+		id: "drag",
+		// This component requires the "pos" and "area" component to work
+		require: [ "pos", "area", ],
+		// "add" is a lifecycle method gets called when the obj is added to scene
+		add() {
+			// "this" in all methods refer to the obj
+			this.onClick(() => {
+				if (curDraggin) {
+					return
+				}
+				curDraggin = this
+				offset = mousePos().sub(this.pos)
+				// Remove the object and re-add it, so it'll be drawn on top
+				readd(this)
+			})
+		},
+		// "update" is a lifecycle method gets called every frame the obj is in scene
+		update() {
+			if (curDraggin === this) {
+				cursor("move")
+				this.pos = mousePos().sub(offset)
+			}
+		},
+	}
+
+}
+```
+
+Now that we've defined our custom component, we want to register releasing the mouse. For this, we use the `onMouseRelease()` event handler.
+
+```
+// drop
+onMouseRelease(() => {
+	curDraggin = null
+})
+```
+
+Now we're ready to add our component:
+
+```
+// adding dragable objects
+add([
+  sprite("bean"),
+  pos(rand(width()), rand(height())),
+  area(),
+  scale(5),
+  origin("center"),
+  // using our custom component here
+  drag(),
+])
+
+// reset cursor to default at frame start for easier cursor management
+onUpdate(() => cursor("default"))
 ```
 
 ## Things to try
 
-At the end, point the reader to https://kaboomjs.com/ where they could learn more about the Kaboom library. Also, include a couple of challenges that the reader could try to extend the code and build their knowledge/skills.
+Here are some suggestions of how you can extend this code further:
 
-You can find the code for this tutorial here - remember to edit the name of the tutorial:
+- Add multiple game objects to the screen that you can drag and drop
 
-<iframe height="400px" width="100%" src="https://replit.com/@ritza/{name-of-tutorial}?embed=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+You can try out the code in the embedded repl below:
+
+<iframe height="400px" width="100%" src="https://replit.com/@ritza/drag-sprite-tutorial?embed=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
