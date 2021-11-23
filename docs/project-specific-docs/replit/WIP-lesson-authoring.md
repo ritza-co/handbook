@@ -4,11 +4,11 @@ Teachers may create read-only instructions for their students to follow as well 
 
 To add Lesson Plan and Instructions files to your project, click on "Add Lesson Contents" as shown below:
 
-![Add Lesson Contents](image.png)
+![Add Lesson Contents](https://raw.githubusercontent.com/ritza-co/handbook/main/site/assets/images/Add%20_lesson_contents.png)
 
 The lesson contents are automatically created as shown below. Instructions and Lesson Plan files are written in markdown. You can find a handy guide to markdown [here](https://www.markdownguide.org/cheat-sheet/)!
 
-![Lesson Contents](image.png)
+![Lesson Contents](https://raw.githubusercontent.com/ritza-co/handbook/main/site/assets/images/Lesson%20contents.png)
 
 ## Instructions
 
@@ -16,7 +16,7 @@ Instructions are view-only documents meant to provide guidance for students as t
 
 Students will see the instructions in the pane next to their text editor.
 
-![Student View](image.png)
+![Student View](https://raw.githubusercontent.com/ritza-co/handbook/main/site/assets/images/Student%20view.png)
 
 ## Lesson Plans
 
@@ -24,10 +24,10 @@ Lesson Plans are accessible only to admins in the `lessonplan.md` file. They are
 
 _Do not place project solutions in the Lesson Plan._
 
-![Teacher View](image.png)
+![Teacher View](https://raw.githubusercontent.com/ritza-co/handbook/main/site/assets/images/Teacher%20View.png)
 
 ## Assets
 
 The Assets folder contains images and other files to be used in the Instructions and Lesson Plans.
 
-You can embed images from your Assets folder into your curriculum files like so: ![Image alt text](assets/imagename.png)
+You can embed images from your Assets folder into your curriculum files like so: `![Image alt text](assets/imagename.png)`
