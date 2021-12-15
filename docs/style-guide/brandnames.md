@@ -2,6 +2,7 @@
 
 ```
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
+D3.js (Not D3.JS, D3JS, D3js, D3)
 dateutil (not Dateutil)
 DigitalOcean (not Digital Ocean)
 Express (not express, express.js, Express.js)
