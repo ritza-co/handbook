@@ -27,6 +27,7 @@ Socket.IO (not Socket.io, socket.io, Socket)
 Sourcegraph (not Source Graph, SourceGraph)
 spaCy (not SpaCy, Spacy, spacy)
 TensorFlow (not tensorflow, Tensorflow, Tensor Flow, tensor flow)
+TypeScript (not Typescript, typescript, Type Script)
 Webflow (not Web Flow, WebFlow, webflow, web flow)
 WebSocket (not websocket, web socket, Websocket, Web Socket, WebSockets)
 ```
