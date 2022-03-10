@@ -1,5 +1,3 @@
-## Software Engineering Writer (Internship)
-
 [Ritza.co](https://ritza.co) is looking for an intern software engineering writer. Our engineering writers are people who are interested in both software engineering and writing. We produce technical tutorials, guides, ebooks, and other educational materials, with an emphasis on the *technical* side -- most of our articles contain code samples, so engineering skills are required. Writing experience is preferred, but our team can help you learn if you have a strong interest in writing.
 
 ### About the role
