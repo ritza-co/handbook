@@ -1,4 +1,4 @@
-# Brandnames 
+# Brand names 
 
 ```
 Bitbucket (not bitbucket, BitBucket, bit bucket, Bit Bucket)
