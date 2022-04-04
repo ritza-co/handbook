@@ -4,7 +4,7 @@
 
 - 🌐 Globally distributed company (provide your own laptop, internet, and a quiet space to work). We are legally based in the Netherlands, but most of the team in South Africa, split between Cape Town and Joburg.
 - 💰 R12000/month
-- 🕐 Flexible hours. We work maily asynchronously over Slack, but you will have a weekly [one-on-one](https://ritza.co/handbook/how-we-work/one-on-ones/) for mentorship and discussing your work. You'll be expected to work around 40h/week, but when and where is almost entirely up to you.
+- 🕐 Flexible hours. We work mainly asynchronously over Slack, but you will have a weekly [one-on-one](https://ritza.co/handbook/how-we-work/one-on-ones/) for mentorship and discussing your work. You'll be expected to work around 40h/week, but when and where is almost entirely up to you.
 
 Your day-to-day work will consist of building proof-of-concept applications using different stacks and frameworks, writing about how you did it, and helping us keep our existing articles and ebooks up-to-date. The tools we use include GitHub, Slack, Markdown, and Google Docs, but we don't require experience in these.
 

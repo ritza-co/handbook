@@ -3,7 +3,7 @@
 ### About the role
 
 - 🌐 Globally distributed company (provide your own laptop, internet, and a quiet space to work). We are legally based in the Netherlands, but most of the team in South Africa, split between Cape Town and Joburg.
-- 🕐 Flexible hours. We work maily asynchronously over Slack, but you will have a weekly [one-on-one](https://ritza.co/handbook/how-we-work/one-on-ones/) for mentorship and discussing your work. We usually work on a retainer basis (x hours/month for a fixed monthly rate), but we can also structure contracts per article or per hour in some cases.
+- 🕐 Flexible hours. We work mainly asynchronously over Slack, but you will have a weekly [one-on-one](https://ritza.co/handbook/how-we-work/one-on-ones/) for mentorship and discussing your work. We usually work on a retainer basis (x hours/month for a fixed monthly rate), but we can also structure contracts per article or per hour in some cases.
 
 ### Apply
 
