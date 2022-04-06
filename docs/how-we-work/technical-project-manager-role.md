@@ -8,6 +8,6 @@ The technical project manager
 * **Tracks:** They keep track of what work is being done, when different stages need to be completed, and identifies missed commitments before they happen.
 * **Communicates:** They keep in close contact with all makers on a project and consoldate their work to prepare it for delivery and distribution.
 
-As with other manager-roles at Ritza, Technical Project managers practice [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) and actively stay aware of the [potential conflicts](../manager-and-makers) between managers and makers.
+As with other manager-roles at Ritza, Technical Project managers practice [servant leadership](https://en.wikipedia.org/wiki/Servant_leadership) and actively stay aware of the [potential conflicts](../managers-and-makers) between managers and makers.
 
 
