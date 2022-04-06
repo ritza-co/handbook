@@ -16,7 +16,7 @@ Managers want to get an overview across different people and projects, so having
 
 Because of the traditional power dynamic between managers and makers, it's common for managers to ask makers to spend their time updating Trello (or even Jira!). It's very uncommon for makers to ask managers to write a paragraph or piece of code for them.
 
-In general, managers should be aware of this imbalance. If something is needed mainly for the managers benefit, the manager should usually be the one putting in the effort. This often involves doing work that managers believe is 'beneath' them: spending a few hours updating tasks, metrics, etc. Work that is time consuming but not difficult.
+In general, managers should be aware of this imbalance. If something is needed mainly for the manager's benefit, the manager should usually be the one putting in the effort. This often involves doing work that managers believe is 'beneath' them: spending a few hours updating tasks, metrics, etc. Work that is time consuming but not difficult.
 
 Managers should actively consider whether something that 'needs to be done' is needed for the maker or for the manager. Because of the default imbalance, managers should actively seek to *support* makers with 'maker problems', while shielding them from 'manager problems'.
 
