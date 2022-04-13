@@ -2,6 +2,7 @@
 
 ```
 Bitbucket (not bitbucket, BitBucket, bit bucket, Bit Bucket)
+CloudFront (not Cloudfront, Cloud Front, cloudfront)
 Code Capsules (not codecapsules, CodeCapsules, code capsules)
 D3.js (Not D3.JS, D3JS, D3js, D3)
 dateutil (not Dateutil)
