@@ -61,7 +61,9 @@ To make a change to the docs (e.g. adding a new tutorial, or fixing an existing 
 1. Update your local master branch, so that it matches Replit's master
 2. Branch off your (now up-to-date) local master branch into a new local branch
 3. Push this new branch to the *Ritza* remote (you won't have permission to push to Replit's version directly)
-4. Open a pull request into Ritza's mater branch (this won't be merged, and will be transfered to a PR against the Replit version, but we can use it for internal coordination)
+4. Open a pull request into Ritza's master branch (this won't be merged, and will be transfered to a PR against the Replit version, but we can use it for internal coordination)
+
+**NOTE:** When you open the pull request on GitHub it will automatically switch to opening it against the upstream (Replit's version). Make sure to switch the "base branch" back to Ritza's version using the dropdown before opening the PR).
 
 
 ```bash
