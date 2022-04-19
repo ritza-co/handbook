@@ -1,5 +1,9 @@
 # Quality Assurance Engineer
 
+- 🌐 Global
+- 🕐 20-40h / week, indefinitely
+- 💰 Rate: You tell us
+
 We are looking for a QA Engineer who
 
 * Runs through the steps in our technical guides and tutorials, ensuring that they are easy to follow, and that code and configuration samples are correct
@@ -26,9 +30,4 @@ Specifically, we are looking for:
 Fill out [this form](https://forms.gle/kHzDrwH9tMzA61Y78).
 
 If you have any questions, please email editor@ritza.co with the subject line `QA ENGINEER ROLE`.
-
-
-
-
-
 
