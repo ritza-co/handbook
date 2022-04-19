@@ -1,7 +1,7 @@
 ## Staff Engineering Writer - Backend (Python, Django)
 
 - 🌐 Global
-- 💰 Rate: R40k-R50k/month (contract position, 40h/week)
+- 💰 Rate: ZAR 40k-50k/month (contract position, 40h/week)
 
 We're looking for a staff Engineering Writer. You'll build proof-of-concept applications and write about how you did it, while also working on developing software for Ritza using Python and Django.
 
