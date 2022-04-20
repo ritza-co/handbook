@@ -2,7 +2,7 @@
 
 On Code Capsules we have both Deployment Guides and Tutorials.
 
-## Deployment guies
+## Deployment guides
 Deployment Guides are for everyone. They are reference guides. They do not aim to teach the reader anything, only to get the reader up-and-running on Code Capsules as fast as possible. The reader should be able to go "I want to build an application using $X (e.g. MERN, Python, whatever) and I want a good starting point that is production-ready". The should be able to pick the guide that matches their stack, and knowing nothing about Code Capsules be able to follow the step-by-step instructions to have an example application deployed.
 
 They can then modify this code, and still have a production application hosted in the same stack by simply modifying the code and running
