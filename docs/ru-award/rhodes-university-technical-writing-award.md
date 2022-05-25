@@ -12,4 +12,10 @@ Write a practical guide, including code samples, on how to build something inter
 
 We'll judge submissions on or before 15 August 2022. The winning entry will receive a one-time award of R5000, paid into a South African bank account. We reserve the right to not award the prize if no submissions meet the criteria outlined above.
 
+## Ts & Cs
+
+You'll retain the IP and copyright to your submissions, but by submitting you give us the permission to include the submission on our website (https://ritza.co/articles). Legally this means:
+
+You retain ownership of your Submission when you share it with us. By submitting, you grant to Ritza a non-exclusive, transferable, sub-licensable, royalty-free, fully paid, irrevocable, worldwide license to reproduce, make available, perform and display, translate, modify, create derivative works from, distribute, and otherwise use any your submission through any medium, whether alone or in combination with other Content or materials, in any manner and by any means, method or technology, whether now known or hereafter created. 
+
 
