@@ -6,19 +6,22 @@ This guide contains detailed instructions on how to cross post to the above ment
 
 ## Dev.to 
 
-We'll start with Dev.to where Ritza has the greatest following. When posting to Dev.to you should ensure the following: 
+Sign into our Ritza branded account on `dev.to`. Ask Gareth for the password if you don't have access. 
 
-- You're posting under the Ritza account and not a personal one. You can check this in the top left section of the "Create Post" page.
+1. Create a new post. Make sure you that you create it as "Ritza"
 
 ![Ritza Account](../assets/cross-posting/ritza-account.png)
 
-- You include the Canonical URL for the article or the URL for the original post. To do this, click on the hexagon shape at the bottom of the "Create Post" page and enter the Canonical URL in the popup that appears.
+2. Copy the markdown content of the post from GitHub into the editor by visiting the 'raw' page, using "Ctrl + A" to select all the text, and copying it to your clipboard with "Ctrl + C".
+3. Edit any images to make sure they display: relative links such as `/images/myimage.png` will need to be changed to absolute links such as `https://example.com/images/myimage.png` depending on where the original post was hosted)
+4. Remove any extra HTML formatting and blocks. For example, `<img src="dog.png">` tags should be converted to markdown format: `![A dog](https://example.com/dog.png)`
+5. Convert any relative links like `See [part 1](./part1.html)` to absolute links `See [part 1](https://example.com/part1.html)`. Always link to the original canonical link rather than the dev.to version of other linked posts.
+6. Replace any `<iframe>` (for example to a linked repl) to a simple link instead. For example, "See the example repl below" should be "You can find the example repl at https://replit.com/@ritza/my-repl"
+7. Include the Canonical URL for the article or the URL for the original post. To do this, click on the hexagon shape at the bottom of the "Create Post" page and enter the Canonical URL in the popup that appears. This should usually link to our customer's domain for that post (not our GitHub).
+8. Add 3-4 relevant tags before publishing. Ask on Slack if you're not sure what tags to use.
 
 ![Canonical URL](../assets/cross-posting/canonical-url.png)
 
-- Often times the articles we post on Dev.to contain relative links to images referenced in the articles. This works well for the site where the article was originally published but on Dev.to the images won't be rendered if we simply copy and paste the original `md` document as it is. We need to change the relative image links to absolute links for the images to be rendered. An example of this would be changing this relative link, `/images/tutorials/28-technical-challenge-site/site-functionality.gif` to this absolute link, `https://docs.replit.com/images/tutorials/28-technical-challenge-site/site-functionality.gif`.
-
-- You add at least one tag to the post to increase its reach
 
 ## Hashnode
 
