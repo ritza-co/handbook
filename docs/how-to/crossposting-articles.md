@@ -60,3 +60,21 @@ The structure of posts on Beginner Python Projects should follow the format belo
     - Add meta data for the article by clicking on the "Meta data" section below the "Authors" section. 
 
 - When you're done you can click on the "Publish" button to publish the article.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*bold test*
+
+\*bold test*
