@@ -12,7 +12,7 @@ Feedback needs to be
 
 Feedback can be given in various ways, depending on the extent and type.
 
-* Comments and/or edit suggestions - for smaller changes, making a suggested change and adding 2-3 sentences explaining the reasonining for the change is often sufficient.
+* Comments and/or edit suggestions - for smaller changes, making a suggested change and adding 2-3 sentences explaining the reasoning for the change is often sufficient.
 * Recorded video - sometimes it's easier for the editor to share their screen and talk about their thoughts while editing the article
 * 1:1 meeting - to allow the writer to also ask for more context or clarifications as this often is more memorable for the writer.
 

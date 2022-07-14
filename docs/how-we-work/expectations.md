@@ -1,6 +1,6 @@
 # Expectations at Ritza
 
-We have a nuanced view on expectation setting. One of our principles is "Rememeber, people are human", and we go to what many would consider extreme lengths to avoid anything that objectivies people, including performance management. That said, collaboration requires some form of shared understanding and instead of having people guess at this, we try to make the expectations that we do have explicit.
+We have a nuanced view on expectation setting. One of our principles is "Remember, people are human", and we go to what many would consider extreme lengths to avoid anything that objectifies people, including performance management. That said, collaboration requires some form of shared understanding and instead of having people guess at this, we try to make the expectations that we do have explicit.
 
 ## Be honest and fulfill your agreement
 
