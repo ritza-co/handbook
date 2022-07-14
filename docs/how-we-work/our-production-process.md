@@ -16,7 +16,7 @@ To some extent, we customise our workflow to each project. Sometimes we have dif
 
 Articles are generally produced either using Google Docs or Markdown. If we use Markdown, articles are tracked in our GitHub organization in a private fork of our customer's repository where the article will finally be published.
 
-We communicate mainly over Slack, and track an overview of the status of each article in Trello. In the case of articles in Google Docs, some communcation may be done through Google Docs comments or edit suggestions. For larger projects with more people involved, we may have status meetings using Zoom, or people may meet 1:1 over Zoom to discuss any problems that arise.
+We communicate mainly over Slack, and track an overview of the status of each article in Trello. In the case of articles in Google Docs, some communication may be done through Google Docs comments or edit suggestions. For larger projects with more people involved, we may have status meetings using Zoom, or people may meet 1:1 over Zoom to discuss any problems that arise.
 
 ## Git workflow
 
@@ -27,7 +27,7 @@ Imagine a customer named Acme who has a Markdown-based blog called Acme Blog. Th
 The writer will have a local copy of our fork on their machine. They will create a new branch for the article, off the `main` branch.
 
 ```
-git checkout add-foo-bar-baz-article 
+git checkout -b add-foo-bar-baz-article 
 ```
 
 They will then work on the draft of their article using whatever editor they are most comfortable with. If they are not comfortable with git or are not part of our GitHub organization, they will simply work in a markdown file and share this by email or Slack and it will rather be integrated into GitHub at the QA stage.

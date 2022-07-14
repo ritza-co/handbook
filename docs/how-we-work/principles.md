@@ -38,6 +38,6 @@ Obviously there are some tradeoffs, and we have agreements in place to ensure th
 from a place of mutual respect, and not from a position of power to someone who needs to comply.
 
 ## We value potential over fungibility
-At many larger corporations, it is preferable for employees to constantly 'perform' at a predictable 20% of their potential rather than allowinng some people to
+At many larger corporations, it is preferable for employees to constantly 'perform' at a predictable 20% of their potential rather than allowing some people to
 (unpredictably) reach 80-100% some of the time. It is a priority that if any individual leaves that they can easily be replaced (they are fungible). While we make hard commitments with our customers  
 and keep to these, this predictability and stability is not achieved at the cost of limiting upside potential through excessive process or safety rails.
