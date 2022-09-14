@@ -4,7 +4,7 @@
 
 The customer success manager:
 
-* Is the main point of contact for the customer on email, slack and/or calls. They respond promptly to any communication from the customer, and where possible *implement any requests personally*, or bring these requests to the production team in the internal #ritza-<customer> channel.
+* Is the main point of contact for the customer on email, slack and/or calls. They respond promptly to any communication from the customer, and where possible *implement any requests personally*, or bring these requests to the production team in the internal `#ritza-<customer>` channel.
 * Understands the customer's product and target market. They can suggest topics and keywords, and create article briefs where necessary.
 * Does SEO and keyword research, SEO optimization, and monitoring to ensure Ritza's articles for the customer are ranking well.
 * Communicates with the managing editor and/or directly with a writer on topics and briefs.
@@ -21,7 +21,7 @@ They suggest these topics to the customer, and also look at traffic and related 
 
 ## Owning an article from idea through to publication
 
-Once topics are agreed, the customer success manager updates the internal #ritza-<customer> channel about this. They keep an eye on the progress of the article to ensure that it is handed over by the writer, QA engineer, editor, and designer, and that progress is on track to meet the deadline.
+Once topics are agreed, the customer success manager updates the internal `#ritza-<customer>` channel about this. They keep an eye on the progress of the article to ensure that it is handed over by the writer, QA engineer, editor, and designer, and that progress is on track to meet the deadline.
 
 They implement any small changes requested by the customer once a draft is delivered, or request help from the writer, QA engineer, editor, or designer for larger revisions.
 
