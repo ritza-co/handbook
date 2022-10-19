@@ -11,6 +11,7 @@ Production timelines can be unpredictable, so our editors are likely to work und
 ## Expectations
 
 The Ritza brand depends on an editorial approach that is more heavy handed than many other publishers. In addition to the standard expectations of technical editors (outlined below), our editors must:
+
 * Work fast.
 * Delete without fear: Be ruthless with fluff phrases, empty adjectives, repetition.
 * Tighten and shorten wording; replace phrases with single words wherever possible.
@@ -22,6 +23,7 @@ Ritza editors are expected to restructure sentences, paragraphs, or sections of 
 ## The Ritza editor’s proofreading cheat sheet
 
 These are the basics that need to be checked in every text:
+
 * Punctuation
   * Inline code in backticks
   * Always add a comma after an introductory clause
@@ -38,6 +40,7 @@ These are the basics that need to be checked in every text:
 ## Standard expectations of editors
 
 Here's an outline of our standard expectations of the technical editor:
+
 * Familiarize yourself with the requirements of the client the content is produced for. If the client has a style guide, we’ll do our best to provide a link to it. In the absence of a style guide, visit the client’s website to establish what their style preferences are. Pay particular attention to:
   * Whether content is produced in American English (AE) or British English (BE). If there is no style guide or the website doesn’t give clarity, default to American English.
   * How titles, headings, and subheadings are capitalized.
