@@ -4,6 +4,7 @@ Your invoice needs to follow some standard requirements, including: the
 
 * The invoice date
 * a description of services provided
+* the currency and amount
 * a sequential invoice number
 * your contact details
 * our contact details. 
@@ -21,14 +22,17 @@ To allow time for any queries etc, please submit your invoices on or before the 
 Please make the invoice out to 
 
 ```
-Ritza
+Ritza B.V.
 Kwikstaartlaan 42 
 Unit E1992
 3704GS Zeist
 The Netherlands
+
+VAT number: NL864041895B01
+KVK registration: 86666606
 ```
 
-and email as an attachment in PDF format to invoices@ritza.co. Please do not send links to invoices hosted online.
+Email the invoice as an attachment in PDF format to invoices@ritza.co. Please do not send links to invoices hosted online. The email should have exactly one attachment (the invoice), and send one email per invoice if sending multiple invoices.
 
 ## Payment
 
@@ -37,9 +41,10 @@ We pay via EFT (South Africa), ACH (United States), or SEPA (IBAN) transfers (mo
 You will not be charged transfer fees and will receive the full agreed amount. If you are in South Africa and have not received money from abroad recently, you will 
 need to fill out a short online form which will be emailed to you after the payment is made.
 
-## Checklist
+## Checklist / common errors in invoices
 
-- Full international bank details, including the exact name your account is in and the exact full name of your bank.
+- Full international bank details, including the exact name your account is in, and the exact full name of your bank.
 - Note that common local abbreviations like "FNB" for "First National Bank" do not work for international payments
-- Note that unlike for local payments, international payments are verified by **account name**, so use exactly the name of your account as it appears on your bank statements, and not an unofficial trading as name.
+- Note that unlike for local payments, international payments are verified by **account name**, so use exactly the name of your account as it appears on your bank statements, and not an unofficial "trading as" name.
+
 
