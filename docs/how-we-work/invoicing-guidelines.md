@@ -1,6 +1,6 @@
 # Invoicing guidelines
 
-Your invoice needs to follow some standard requirements, including: the 
+Your invoice needs to follow some standard requirements, including:
 
 * The invoice date
 * a description of services provided
