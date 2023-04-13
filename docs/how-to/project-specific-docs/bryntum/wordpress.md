@@ -38,7 +38,17 @@ Each code block should be wrapped in a tag that looks something like this:
 <!-- /wp:code -->
 ```
 
-## Images
+For HTML syntax use `markup` as the language in the class:
+
+```html
+<!-- wp:code -->
+<pre
+  class="language-javascript wp-block-code"
+><code class="language-javascript">CODE-GOES-HERE</code></pre>
+<!-- /wp:code -->
+```
+
+## Images, gifs, and videos
 
 Go through the Wordpress block editor and delete the image blocks one by one and replace with the appropriate image for that section of the article.
 
@@ -60,6 +70,18 @@ Attach the header image in the cover image section.
 
 Once you have completed these steps, run through the article to make sure all the formatting has been copied over correctly. Check the headings, lists, bullet-points, images, etc.
 
-Once the article is complete, copy the `html` tex from the Wordpress `code editor`, create a file in the Ritza GitHub repository alongside the original article, and paste the text there. We keep this `html` version in case something corrupts the Wordpress version.
+### Changing the Ritza GitHub links
+
+Any links to a Ritza GitHub repo in the article should be sent to Bryntum to fork, that Bryntum repository should replace any Ritza repository links in the article. Please check the article and let Bryntum know if they need to fork all branches of the repository.
+
+### Pick an article category
+
+Make sure to pick a category for the article from the Wordpress sidebar. The category should match the category of similar articles previously posted, which can be checked inside Wordpress.
+
+![Wordpress Article Cateogory](https://i.ritzastatic.com/images/cd19003d415841ccb99519de38c34199/wordpress-article-category.mp4)
+
+### Save HTML version of article
+
+Once the article is complete, copy the `html` text from the Wordpress `code editor`, create a file in the Ritza GitHub repository alongside the original article, and paste the text there. We keep this `html` version in case something corrupts the Wordpress version.
 
 ![HTML save](https://i.ritzastatic.com/images/133019c06ad34297bdebcce53ae24565/html-save.mp4)
