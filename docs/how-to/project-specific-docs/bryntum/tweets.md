@@ -44,6 +44,18 @@ All Bryntum product tweets should follow this format. Please make sure to use a 
 
 Each product should be tweeted about evenly, ensuring not to tweet about the same product twice in the same week, and ensuring, if possible, that you have not tweeted about any product feature before.
 
+### Recording in 16:9 aspect ratio with CleanShot
+
+Every video uploaded for a tweet must be recorded in a 16:9 aspect ratio. To do this in the CleanShot application, open the application and select `Record Screen`:
+
+![Record Screen](https://i.ritzastatic.com/images/9c2999e18a8847c9b562a38babea74e0/rec-screen.png)
+
+Once the record screen menu is open you will see the aspect ratio symbol, click that symbol and choose the 16:9 aspect ratio setting:
+
+![Choose aspect ratio](https://i.ritzastatic.com/images/f2bf1c20edcd4c6c838dfd8b3d80e02d/sixteen-nine.png)
+
+Then align this recording area over the area you wish to record.
+
 ### Recording with the banner maker
 
 The banner maker software, found [here](), needs some setup before use.
@@ -67,13 +79,9 @@ Then you can demonstrate using the product while recording the banner at 16:9 as
 
 But sometimes the UI can be squished by the banner maker, making the product look bad. As you can see in the video above, The TaskBoard's tasks are squished and so you cannot read the text within them. Keep an eye out for this.
 
-If the UI is squished you need to record using the product a different way. To record the product without a squished UI, open your browser and place it over the iframe of the banner maker, making it match perfecty horizontally, but slightly bigger vertically.
+If the UI is squished, just adjust the font size % in the settings of the banner-maker until the UI looks good:
 
-![Record browser](https://i.ritzastatic.com/images/139a4f4389e74ec3802addc5c8cb3482/record-browser.mp4)
-
-Now record the demonstration of the feature only within the broswer window. Once you have recorded that successfully, upload the video with the `upload.py` script, and put the link that is returned from that script into the `iframe` found in the developer tools of the banner maker. Once the link is in the `iframe` `src` then the video should appear in the `iframe`, if the video has black bars on the top of bottom, adjust the width percentage of the iframe until the video fits perfectly.
-
-![Record video in banner](https://i.ritzastatic.com/images/831f30ab4b4d44caa336d02ca1d40597/record-vide.mp4)
+![Adjust font size](https://i.ritzastatic.com/images/d71217c8fcbd43a488a6b9d121b0f25e/font-size-zoom.mp4)
 
 ## Codepen tweets
 
