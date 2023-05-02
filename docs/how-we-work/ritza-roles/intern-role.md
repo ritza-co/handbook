@@ -17,17 +17,17 @@ As a small company, Ritza has constantly shifting priorities. While we offer sup
 As of May 2023, the day-in-the-life-of-an-intern may look like 
 
 * **Engineering writing** -- building example applications such as a chatbot or CRUD application, and writing about how someone else can replicate this. Examples 
-    * https://codecapsules.io/docs/tutorials/build-flask-htmx-app/
-    * https://bryntum.com/blog/how-to-visualize-your-google-sheets-data-with-bryntum-gantt/
+    * [https://codecapsules.io/docs/tutorials/build-flask-htmx-app/](https://codecapsules.io/docs/tutorials/build-flask-htmx-app/)
+    * [https://bryntum.com/blog/how-to-visualize-your-google-sheets-data-with-bryntum-gantt/](https://bryntum.com/blog/how-to-visualize-your-google-sheets-data-with-bryntum-gantt/)
 
-This includes writing the code, but also figuring out how to fit different systems and platforms together. Often our article are long-form (2000+ words), but we also do shorter ones such as Sentry Answers (http://sentry.io/answers/, StackOverflow style), or Tweets (e.g. https://twitter.com/bryntum/status/1653414097789112321?s=20, where we build a simple demo on CodePen and explain it in a Tweet).
+This includes writing the code, but also figuring out how to fit different systems and platforms together. Often our article are long-form (2000+ words), but we also do shorter ones such as Sentry Answers ([http://sentry.io/answers/](http://sentry.io/answers/), StackOverflow style), or Tweets (e.g. [this tweet](https://twitter.com/bryntum/status/1653414097789112321?s=20), where we build a simple demo on CodePen and explain it in a Tweet).
 
 * **Publishing operations** -- this is all the other work that is required to get our work published and into the world. For example
-    * Converting articles to different formats, such as formatting them for Wordpress (https://ritza.co/handbook/how-to/project-specific-docs/bryntum/wordpress/).
+    * Converting articles to different formats, such as formatting them for Wordpress ([https://ritza.co/handbook/how-to/project-specific-docs/bryntum/wordpress/](https://ritza.co/handbook/how-to/project-specific-docs/bryntum/wordpress/).
     * Creating basic graphics like header images
     *  Implementing feedback on another writer's article based on customer feedback
 
-* **Sales engineering** -- to spread the word about Ritza, we often do small improvements for free to open source projects who we think might be interested in our services. For example, making corrections to their onboarding documentation or contributing a short guide on how to do something specific. This is similar to the 'engineering writing' above, but also includes more exploritory work of trying out their product and seeing what makes sense to do as a 'free sample'. 
+* **Sales engineering** -- to spread the word about Ritza, we often do small improvements for free to open source projects who we think might be interested in our services. For example, making corrections to their onboarding documentation or contributing a short guide on how to do something specific. This is similar to the 'engineering writing' above, but also includes more exploritory work of trying out their product and seeing what makes sense to do as a 'free sample'. Similarly, we write 'internal articles'. You can see examples at [http://ritza.co/articles/](http://ritza.co/articles/). These are often shorter and shallower articles than the ones we produce for our customers, but they try to produce useful information related to things that are popular Google search terms.
 
 * **Collaboration** -- sometimes someone is struggling with something specific, or we anticipate that a deadline is going to be missed. We generally work asynchronously with conversations over Slack, but you'll also have at least one weekly call, and ad-hoc calls if required to figure out how best to collaborate with another writer or to help someone with a specific problem they're facing.
 
@@ -47,7 +47,7 @@ You'll also have [one-on-ones](https://ritza.co/handbook/how-we-work/one-on-ones
 
 ## Housekeeping
 
-You will be an independent contractor and be required to invoice for the service you provide on a monthly basis. You can find details about invoicing and payments here https://ritza.co/handbook/how-we-work/invoicing-guidelines/. 
+You will be an independent contractor and be required to invoice for the service you provide on a monthly basis. You can find details about invoicing and payments [here](https://ritza.co/handbook/how-we-work/invoicing-guidelines/).
 
 You should do basic time tracking and submit a report monthly or as requested. We trust you to put in the agreed hours, but it helps us figure out where time is going and to optmize the business overall if we understand where hours are being spent. You're welcome to use any time tracking tool you use (e.g. Toggl), or just a basic spreadsheet, but we should be able to see how many hours you gave us on any given day and what the main things you worked on in those hours was. If you're using a spreadsheet, you could use columns such as
 
