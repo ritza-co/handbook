@@ -4,46 +4,20 @@
 * We have a shared GitLab account that you can use to authenticate with their (private) repo.
 * Drafting, editing and QA should happen in our GitHub
 * This branch can then be pushed to GitLab for their feedback
-* Once the branch exists in GitLab, you can use the GitLab UI to open a pull request and get feedback from ReviewNB
 
-## SEO and target audience
+## Production process and Git
 
-* TODO
+Generally, our flow is brief -> draft -> QA -> editing -> publish. **Upstream** is ReviewNB's repository on GitLab. **Origin** is our fork of this on GitHub.
 
-## Coordinating drafting, QA, editing
+* Production creates a brief and iterates on it with ReviewNB in a Google Doc
+* QA creates a branch off upstream main and pushes it to origin, and shares the name in the channel.
+* The author fetches this branch and pushes up commits of the article content directly to the branch
+* QA pushes commits to the branch
+* Editing pushes commits to the branch
+* QA pushes the branch to an upstream branch
+* Production opens an MR to upstream and emails ReviewNB to let them know that the post is ready for review
 
-Generally, our flow is draft -> QA -> editing. In theory
-
-* The author creates an `add-foo-article` branch off `main` (GitHub) and adds the draft
-* QA branches off there with `qa-foo-article` and opens a PR to `add-foo-article`
-* Editing branches off their with `language-edit-foo-article` and opens a PR into `add-foo-article`
-* Ideally the QA branch should be merged before the editing branch is created
-* In reality, these things might happen in different orders and people might branch off each other's branches instead of the main one
-* Therefore, the technical producer also needs to keep up with this process and ensure that the right merges happen or create these.
-
-EXAMPLE
-
-In the following, you can see that the language edit branch was created first, and the QA branch is now going into the language edit branch. This means that if you take the following steps
-
-1. Merge the language edit branch into the draft branch
-2. Merge the QA branch into the language edit one
-
-Then the QA updates will be lost and won't make their way into the draft branch.
-
-![](img/merge-into-lang-edit.png)
-
-![](img/qa-into-lang-edit.png)
-
-So in this case, it's important to first 
-
-1. Merge the QA branch into language edit
-2. Merge language edit into draft
-
-Meaning that both QA and language edit changes will reflect in the draft branch.
-
-## Timing
-
-One of the best ways to 'create' time for the team is by making sure we don't have any wasted time between stages. So the draft should be given to QA as soon as possible after the author is done, and to editing as soon as possible after QA is done. Ideally, each stage hands over to the next one, but sometimes it needs a nudge. Similarly, we should get feedback from the customer as soon as possible after editing is done to overall reduce the the time from brief -> publication.
+<img width="1073" alt="image" src="https://user-images.githubusercontent.com/2641205/210336750-61c10e97-559f-4b62-baec-26d02f9065eb.png">
 
 ## Setting up GitHub and GitLab remotes locally
 
