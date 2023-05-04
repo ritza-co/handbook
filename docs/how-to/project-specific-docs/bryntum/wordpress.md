@@ -2,7 +2,7 @@
 
 The article should be copied from the GitHub by clicking and dragging over the article, rather than clicking on the `copy` button. This is because the `copy` button does not copy the text in markdown format, which we will need later on in the crossposting.
 
-<video controls>
+<video controls width="100%">
   <source src="https://i.ritzastatic.com/images/dc9b9558164b4bf282dea79c07dd4737/copy-markdown.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
