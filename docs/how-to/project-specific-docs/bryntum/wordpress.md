@@ -1,4 +1,22 @@
-# Cross-posting from GitHub to Bryntum Wordpress guide
+# Prepare and cross-post Bryntum articles
+
+We prepare Bryntum drafts in markdown, but later prepare different formats of the same article. We should always treat the markdown version in GitHub as the canonical version, so any changes made later to other versions should always be backported to the markdown version.
+
+## Overview of formats and versions
+
+* The markdown version in GitHub - https://github.com/ritza-co/bryntum
+* A wordpress version for their blog. This we prepare as a **draft** on their **staging server**, and they publish it to live from there
+* A medium version for their Medium.com account
+* A dev.to version for the Dev.to account
+* [for migration guides] - a markdown version in their docs repository. Their docs are in a mono-repo with their source code which they are very protective over, so we have a [bryntum-docs](https://github.com/ritza-co/bryntum-docs) repository that mirrors the same structure as their main repo, but only including the docs we are working on.
+
+## Overview of process
+
+* Once an article has gone thorugh drafting, QA, and editing, it can be uploaded to wordpress. Create a draft (guide below) on wordpress and add a header image.
+* Copy the HTML version of the wordpress version and craete a PR with this back to our main Bryntum GitHub repository. This is because WordPress can be janky and once all the finicky formatting is done we don't want to lose that work
+* Once the article has been live on their WordPress blog for a couple of weeks, create a Medium.com and Dev.to version [guide to be created].
+
+## Steps for creating a WordPress draft
 
 The article should be copied from the GitHub by clicking and dragging over the article, rather than clicking on the `copy` button. This is because the `copy` button does not copy the text in markdown format, which we will need later on in the crossposting.
 
