@@ -1,6 +1,6 @@
-# Onboarding Practices and FAQ's
+# Onboarding Practices and FAQs
 
-## Make sure to recieve access to the following:
+## Make sure to receive access to the following:
 - ZATech's Slack 
 - Ritza's GitHub account
 - A Ritza email address 
@@ -10,11 +10,11 @@
 - Clone the relevant repository
 - Create a new branch
 - Make changes
-- Create a pull request to main
+- Create a pull request to the main branch
 
 ### Pull Requests
 
-After creating a a PR share a link to it in the relevant slack channel. Don't merge changes directly into the main branch.
+After creating a PR share a link to it in the relevant slack channel. Don't merge changes directly into the main branch.
 
 ## WordPress Drafts
 
@@ -23,9 +23,4 @@ After preparing drafts, don't publish them to the WordPress site directly. This 
 ## Beginner's Questions
 ### How is work tracked?
 
-We take ownership for tracking what we are working on. Communicating our progress to those we are collaborating with keeps the process moving along.
-
-
-
-
-
+We take ownership of tracking what we are working on. Communicating our progress to those we are collaborating with keeps the process moving along.
