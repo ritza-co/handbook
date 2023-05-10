@@ -54,7 +54,11 @@ Go through the Wordpress block editor and delete the image blocks one by one and
 
 ![Image upload](https://i.ritzastatic.com/images/8da582080e4a495b90d61aac101560f9/image-upload.mp4)
 
-All video or gif files must be converted to `webm` format. You can use [this website](https://cloudconvert.com/mp4-to-webm) to do the converting.
+All video or gif files must be converted to `webm` format. You can use [this website](https://cloudconvert.com/mp4-to-webm) to do the converting. The `webm` format is preferred because of its better quality.
+
+Upload `webm` files using the `video` type of code block in the visual editor. If the `video` option is not listed in the mini drop down box you can search for it.
+
+![webm upload](https://i.ritzastatic.com/images/6cb6d98fb455445abfe1d086ab34a317/upload-webm.mp4)
 
 ### Making the header image
 
