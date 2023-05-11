@@ -88,7 +88,10 @@ All video or gif files must be converted to `webm` format. You can use [this web
 
 Upload `webm` files using the `video` type of code block in the visual editor. If the `video` option is not listed in the mini drop down box you can search for it.
 
-![webm upload](https://i.ritzastatic.com/images/6cb6d98fb455445abfe1d086ab34a317/upload-webm.mp4)
+<video controls width="100%">
+    <source src="https://i.ritzastatic.com/images/6cb6d98fb455445abfe1d086ab34a317/upload-webm.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ### Making the header image
 
