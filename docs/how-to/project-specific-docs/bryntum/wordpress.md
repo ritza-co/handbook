@@ -40,7 +40,7 @@ In the WP `visual editor`, run through the article and check the block type of a
     Your browser does not support the video tag.
 </video>
 
-Swicth to the Wordpress `code editor` and run through all of the `<!-- wp:code -->` code blocks. Add the following class to both the `<pre>` and `<code>` tags of these blocks:
+Switch to the Wordpress `code editor` and run through all of the `<!-- wp:code -->` code blocks. Add the following class to both the `<pre>` and `<code>` tags of these blocks:
 
 ```html
 class="language-(language-type-here)"
@@ -70,8 +70,8 @@ For HTML syntax use `markup` as the language in the class:
 ```html
 <!-- wp:code -->
 <pre
-  class="language-javascript wp-block-code"
-><code class="language-javascript">CODE-GOES-HERE</code></pre>
+  class="language-markup wp-block-code"
+><code class="language-markup">CODE-GOES-HERE</code></pre>
 <!-- /wp:code -->
 ```
 
@@ -101,6 +101,22 @@ To make the header image take the screenshot of the final software demo, or if t
     <source src="https://i.ritzastatic.com/images/c54991ccdeee469782f4c7122dcbb750/figma-header-work.mp4" type="video/mp4">
     Your browser does not support the video tag.
 </video>
+
+
+Figma tips for adding and resizing images:
+
+* Add a new image by creating a shape first. Select the rectangle tool and drag out the shape on the frame.
+![](https://i.ritzastatic.com/images/d3603ebb4a014fab96da9e70f26a5568/figma-create-layer-for-image.png)
+
+* Once you have the shape, add the image by selecting the "Place image/video..." option which will open your file explorer. Select the image you want to use and add it to the shape by clicking on the shape.
+![](https://i.ritzastatic.com/images/a93b29be6dd948ab847623d66c43e361/figma-place-image.png)
+
+* Crop image layers by double clicking on it and selecting the "Crop" option of the dropdown menu.
+![](https://i.ritzastatic.com/images/50333b72922f499c8b88b03e2e059aee/figma-dbl-click-image-for-crop.png)
+
+* Use the blue handles to selection the portion of the image that you want to crop and press enter.
+![](https://i.ritzastatic.com/images/fb455e8bb89945139b7609deeda87dd4/figma-crop-handles.png)
+
 
 Attach the header image in the cover image section.
 
