@@ -30,36 +30,38 @@ Add topics like JavaScript, Gantt Chart, or something else that is relevant. Loo
 
 ## Dev.to
 
+To post to Dev.to, you need to copy and paste the post's raw markdown, add in the images, canononical link and four categorical tags. 
+
 * Sign into Bryntum's dev.to account and select "Create Post".
-* Change the account from "Personal" to "Bryntum" in the dropdown menu next to "Create Post".
+* In the dropdown menu next to "Create Post", change the account type from "Personal" to "Bryntum" .
 
 ![](https://i.ritzastatic.com/images/f8b758eb441e4ae986311a14c87c71f2/dev-account.png)
 
-* Copy the markdown content of the post from GitHub's "Raw" view and paste it into the editor.
-* Don't publish the draft - even when you're done. Select the "Save draft" option as you work.
+* Copy the markdown of the post from GitHub's "Raw" view and paste it into the editor.
+* Select the "Save draft" option as you work.
 
 ### Add Images to the Post
 
-* Download the images from the GitHub repo onto your local machine. 
-* Find the images in the dev.to article by using "Ctrl + F" and searching for the folder name that the images were saved to in the GitHub repo. For example, search for "images" if the images were saved to a folder of that name
+* Download all the images from the GitHub repo onto your local machine. 
+* Find the images in the dev.to article by using "Ctrl + F" and search for the folder name that the images were saved to in the GitHub repo. For example, search for "images" if the images were saved to a folder of that name
 
 ![](https://i.ritzastatic.com/images/be91c6322eb44f97ae9fe224557467b3/dev-find-images.png)
 
-* Upload the corresponding image which you saved earlier by clicking on the image icon. 
+* Upload the corresponding image by clicking on the image icon, and selecting the correct image from your local machine. 
 
-![](https://i.ritzastatic.com/images/511c1eb20cec4262aa267e7b22f1350c/dev-image-icon.png)
+![](https://i.ritzastatic.com/images/3ac86fa7350348cfaa4667f02d42392e/add_image_devto.png)
 
 * You can also cut and paste the original alt text to the new image's "Image Description" 
 
 ### Include the Canonical URL
 
-Click on the hexagonal icon at the bottom of the "Create Post" page and paste in http://bryntum.com/blog.
+Click on the hexagonal icon at the bottom of the "Create Post" page. Copy and paste the post's URL from the Bryntum website into the Canonical URL field.
 
 ![](https://ritza.co/handbook/assets/cross-posting/canonical-url.png)
 
 ### Add Tags
 
-Add three or four tags to categorize the post under the article's title. Aim to select some popular tags that apply from the "Top tags" suggestions.
+Add three or four tags, under the article's title, to categorize the post . Select popular tags from the "Top tags" suggestions.
 
 ![](https://i.ritzastatic.com/images/b8b525e6e600442b915519d9e69067ad/dev-tags.png)
 
@@ -69,5 +71,5 @@ Select "Preview" from the top right of the "Create Post" page. Scroll through th
 
 ![](https://i.ritzastatic.com/images/2d28af0baa2b443d9bb0c2d4522623b9/dev-compare.png)
 
-Remember to select "Save draft" and not "Publish".
+Publish the draft when ready.
 
