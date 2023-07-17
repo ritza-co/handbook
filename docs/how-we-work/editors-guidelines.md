@@ -10,10 +10,10 @@ Production timelines can be unpredictable, so our editors are likely to work und
 
 ## Expectations
 
-The Ritza brand depends on an editorial approach that is more heavy handed than many other publishers. In addition to the standard expectations of technical editors (outlined below), our editors must:
+The Ritza brand depends on an editorial approach that is more heavy-handed than many other publishers. In addition to the standard expectations of technical editors (outlined below), our editors must:
 
 * Work fast.
-* Delete without fear: Be ruthless with fluff phrases, empty adjectives, repetition.
+* Delete without fear: Be ruthless with fluff phrases, empty adjectives, and repetition.
 * Tighten and shorten wording; replace phrases with single words wherever possible.
 * Rewrite cumbersome, unclear, or ambiguous sentences. This may require checking in with the writer.
 * Focus on clarity and ease of reading as much as grammatical accuracy.
@@ -47,7 +47,7 @@ Here's an outline of our standard expectations of the technical editor:
   * Whether or not they use the Oxford comma.
   * Whether they use ~ise or ~ize – this isn’t as straightforward as it should be. Content produced in AE will consistently use ~ize, but content produced in BE could use either.
   * The [Ritza style guide](https://styleguide.ritza.co) will also help you make editorial choices. 
-* Double check all brand names mentioned in the text and ensure that they are capitalized according to that brand’s specifications.
+* Double-check all brand names mentioned in the text and ensure that they are capitalized according to that brand’s specifications.
   * Ritza has a [list of brand names](https://styleguide.ritza.co/vocabulary/brandnames/) that use unconventional capitalization practices, but it is by no means exhaustive. Please feel free to add to it if you’d like to.
 * Ensure spelling, hyphenation, capitalization, presentation of lists and tables, spacing, and heading styles are consistent.
 * Correct all grammatical errors and incorrect word use.
