@@ -37,7 +37,7 @@ Our preferred method of hiring is
 * We look at your application (possibly including CV, writing samples, code portfolio, motivation letter though none are compulsory)
 * If we like it, we arrange a short, informal call to get to know you a bit better
 * If we like each other after that, we contract you to do a trial article (around 2000 words)
-* If we like each other after that, we agree to a monthly retainer (you work 10-30 hours/month for us for a fixed monthly fee)
+* If we like each other after that, we agree to a monthly retainer (you work 10-30 hours/week for us for a fixed monthly fee)
 
 ## How our writing process works
 
