@@ -40,5 +40,6 @@ The rules for style we highlight here are only those that deviate from the [Ritz
 
 * Id (not ID, referring to a unique identifier)
 * curl (not Curl or cURL)
+* pre-configured (not preconfigured)
 
 Find more FusionAuth formatting preferences in [this list](https://github.com/FusionAuth/fusionauth-site/blob/master/DocsDevREADME.md#proper-names-and-other-verbiage).
