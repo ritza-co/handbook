@@ -20,9 +20,12 @@ We prepare posts in weekly batches, one week ahead.
 ## Checklist
 * All Bryntum demos are using the banner maker tool
 * Text, title, icons in demos are correct and don't have typos or spacing issues
+* All media (demos and images) are relevant to the post and text (ie media is not mixed up due to copy-paste errors)
 * All demos are < 5MB in size
+* All images are high resolution and not pixelated
 * Demos have aspect ratio of exactly 16:9
 * Demos are high quality - 4k or retina
 * Text is phrased as a call to action or question
 * Text fits within Tweet length limits (note you can use fewer characters when using an image/video/link)
 * Codepen links are forked to the Bryntum account
+
