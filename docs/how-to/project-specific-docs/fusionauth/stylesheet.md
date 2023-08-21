@@ -14,8 +14,7 @@ The rules for style we highlight here are only those that deviate from the [Ritz
 
 ### Heading capitalization
 
-* FusionAuth documentation uses [title case](https://styleguide.ritza.co/grammar/grammar/#capitalization) for titles and section headings. You can use this [title case converter](https://titlecase.com) to apply title case rules to your headers correctly.
-* FusionAuth blog posts use sentence case for titles and section headings.
+* FusionAuth uses [start case](https://styleguide.ritza.co/grammar/grammar/#capitalization) for titles and section headings, which uses initial capitals for every word, for example: Using The FusionAuth React SDK In A React Application.
 
 ### Personal pronouns
 
