@@ -77,7 +77,9 @@ For HTML syntax use `markup` as the language in the class:
 
 ## Images, gifs, and videos
 
-Go through the Wordpress block editor and delete the image blocks one by one and replace with the appropriate image for that section of the article.
+All images should be optimized using [tinyPNG](https://tinypng.com/) to reduce the file size while preserving its quality. 
+
+Go through the Wordpress block editor and delete the image blocks one by one and replace with the appropriate image for that section of the article. 
 
 <video controls width="100%">
     <source src="https://i.ritzastatic.com/images/8da582080e4a495b90d61aac101560f9/image-upload.mp4" type="video/mp4">
