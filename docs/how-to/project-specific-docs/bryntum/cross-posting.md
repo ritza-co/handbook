@@ -2,15 +2,15 @@
 
 ## Medium
 
-* We cross post articles after they have been published on the blog on Medium.
+* We cross-post articles after they have been published on the blog on Medium.
 * The Ritza.co services@ritza account has access to submit to the Bryntum publication, so get access to that account.
 * Create a new draft and copy from the markdown, one section at a time, as if you copy the entire thing, the code blocks will not always get the correct formatting
-* For each code block, add three backticks which creates a new code block in medium and copy the code from GitHub. You can use the 'copy code block' button for this 
+* For each code block, add three backticks which create a new code block in medium, and copy the code from GitHub. You can use the 'copy code block' button for this 
 
 ![](https://i.ritzastatic.com/images/d0d821d358f946b6ab110da5a99452a0/copy-code.png).
 
-* Still images should copy across automatically, but webm and mp4 files will not. Save these locally and convert them to .gif, e.g. using https://cloudconvert.com/webm-to-gif.
-* Check that all links and images and code samples etc are as expected
+* Still images should copy across automatically, but `webm` and `mp4` files will not. Save these locally and convert them to .gif, e.g. using https://cloudconvert.com/webm-to-gif.
+* Check that all links, images, and code snippets match the original.
 
 Submit the publication to Bryntum
 
@@ -30,17 +30,17 @@ Add topics like JavaScript, Gantt Chart, or something else that is relevant. Loo
 
 ## Dev.to
 
-To post to Dev.to, you need to copy and paste the post's raw markdown, add in the images, canononical link and four categorical tags. 
+To post to Dev.to, you need to copy and paste the post's raw markdown, add in the images, canonical link, and four categorical tags. 
 
-* Sign into Bryntum's dev.to account and select "Create Post".
-* In the dropdown menu next to "Create Post", change the account type from "Personal" to "Bryntum" .
+* Sign in to Bryntum's dev.to account and select "Create Post".
+* In the dropdown menu next to "Create Post", change the account type from "Personal" to "Bryntum".
 
 ![](https://i.ritzastatic.com/images/f8b758eb441e4ae986311a14c87c71f2/dev-account.png)
 
 * Copy the markdown of the post from GitHub's "Raw" view and paste it into the editor.
 * Select the "Save draft" option as you work.
 
-### Add Images to the Post
+### Add images to the post
 
 * Download all the images from the GitHub repo onto your local machine. 
 * Find the images in the dev.to article by using "Ctrl + F" and search for the folder name that the images were saved to in the GitHub repo. For example, search for "images" if the images were saved to a folder of that name
@@ -53,21 +53,27 @@ To post to Dev.to, you need to copy and paste the post's raw markdown, add in th
 
 * You can also cut and paste the original alt text to the new image's "Image Description" 
 
-### Include the Canonical URL
+### Add any videos using Ritza CDN links
+
+Dev.to doesn't support adding `mp4` or `webm` videos to posts. GIFs are supported, however, they have strict size limits and often fail to upload without providing a clear error message about why the upload failed. 
+
+The workaround to this is to upload the video to the Ritza CDN and add a link to it in the Dev.to post. 
+
+### Include the canonical URL
 
 Click on the hexagonal icon at the bottom of the "Create Post" page. Copy and paste the post's URL from the Bryntum website into the Canonical URL field.
 
 ![](https://ritza.co/handbook/assets/cross-posting/canonical-url.png)
 
-### Add Tags
+### Add tags
 
-Add three or four tags, under the article's title, to categorize the post . Select popular tags from the "Top tags" suggestions.
+Add three or four tags, under the article's title, to categorize the post. Select popular tags from the "Top tags" suggestions.
 
 ![](https://i.ritzastatic.com/images/b8b525e6e600442b915519d9e69067ad/dev-tags.png)
 
-### Check the Post
+### Check the post
 
-Select "Preview" from the top right of the "Create Post" page. Scroll through the article and check that the images headings, code blocks, bullet points and links are displayed correctly. You can do side-by-side comparison with a published version to easily spot issues.
+Select "Preview" from the top right of the "Create Post" page. Scroll through the article and check that the image headings, code blocks, bullet points, and links are displayed correctly. You can do a side-by-side comparison with a published version to easily spot issues.
 
 ![](https://i.ritzastatic.com/images/2d28af0baa2b443d9bb0c2d4522623b9/dev-compare.png)
 
