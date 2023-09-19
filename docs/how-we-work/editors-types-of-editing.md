@@ -30,7 +30,7 @@ Modern technical editing includes:
 * Changing passive voice to active voice.
 * Giving subsections descriptive headings.
 
-Take a look at our [guidelines for technical editors](./editors-guidelines) for more detail about our approach to modern technical editing.
+Take a look at our [guidelines for technical editors](editors-guidelines.md) for more detail about our approach to modern technical editing.
 
 ## Writer-development editing
 
