@@ -13,9 +13,15 @@ It should also contain your international bank details (see note about countries
 
 ## Timelines 
 
-We process invoices on the last working day of each calendar month. All invoices submitted up to 5pm on the second-last working day of each month will be included. Any late invoices will only be processed on the last working day of the following month.
+We process invoices on the last working day of each calendar month. 
 
-To allow time for any queries etc, please submit your invoices on or before the **25th** of each month. If you have a retainer agreement for us for a fixed monthly number of hours, you can invoice for the entire month (e.g. including the hours you'll still complete between the 25th and end of month). If you have an hourly agreement with us, please invoice for the hours completed up to the 25th, and include any hours done after the 25th in the following month's invoice.
+Invoices submitted before the 25th of that month will always be included.
+
+Invoices submitted after the 25th will be processed the following calendar month. For example, if you submit your invoice on Friday 23 June 2023, it will be paid Friday 30 June 2023. If you submit your invoice on Monday 26 June 2023, it will be processed on Monday 31 July 2023.
+
+If you have a retainer agreement for us for a fixed monthly number of hours, you can invoice for the entire month (e.g. including the hours you'll still complete between the 25th and end of month). 
+
+If you have an hourly agreement with us, please invoice for the hours completed up to when you submit your invoice, and include any hours done after the 25th in the following month's invoice.
 
 ## Contact details
 
