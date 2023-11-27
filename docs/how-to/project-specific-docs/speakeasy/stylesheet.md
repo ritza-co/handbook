@@ -14,7 +14,7 @@ The rules for style we highlight here are only those that deviate from the [Ritz
 
 ### Heading capitalization
 
-Speakeasy uses title case for titles and section headings. Use the [AP Style Book rules](https://en.wikipedia.org/wiki/Title_case#AP_Stylebook) for applying title case, or convert a heading to title case using [this tool](https://titlecaseconverter.com).
+Speakeasy documentation uses title case for titles and section headings. Use the [AP Style Book rules](https://en.wikipedia.org/wiki/Title_case#AP_Stylebook) for applying title case, or convert a heading to title case using [this tool](https://titlecaseconverter.com).
 
 ### Backticks
 
