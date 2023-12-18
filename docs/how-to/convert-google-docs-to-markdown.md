@@ -12,6 +12,6 @@ Once you've run the add-on it will copy the markdown version to your clipboard. 
 
 To get the images, download an HTML version of the entire document. This will give you a `.zip` file with a subfolder with all the images. 
 
-![Download HTML](../assets/how-to/docs-to-markdown.png)
+![Download HTML](../assets/how-to/download-html.png)
 
 For each image, the markdown will have a warning added in the HTML that the image might be wrong, as the downloaded images are out of order. You need to manually check each image and change the name if necessary for the markdown version.
