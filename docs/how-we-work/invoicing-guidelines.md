@@ -23,9 +23,17 @@ If you have a retainer agreement for us for a fixed monthly number of hours, you
 
 If you have an hourly agreement with us, please invoice for the hours completed up to when you submit your invoice, and include any hours done after the 25th in the following month's invoice.
 
-## Contact details
+## Company details
 
-Please make the invoice out to 
+If you are invoicing in South African Rands (ZAR), please make the invoice to:
+
+```
+Ritza SA PTY LTD
+```
+
+And email it in PDF format to `invoices-sa@ritza.co`. 
+
+If you are invoicing in USD or EUR, please make the invoice to:
 
 ```
 Ritza B.V.
@@ -38,7 +46,9 @@ VAT number: NL864041895B01
 KVK registration: 86666606
 ```
 
-Email the invoice as an attachment in PDF format to invoices@ritza.co. Please do not send links to invoices hosted online. The email should have exactly one attachment (the invoice), and send one email per invoice if sending multiple invoices.
+And email it in PDF format to invoices@ritza.co. 
+
+Please do not send links to invoices hosted online. The email should have exactly one attachment (the invoice), and send one email per invoice if sending multiple invoices.
 
 ## Payment
 
