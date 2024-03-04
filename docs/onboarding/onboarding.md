@@ -9,6 +9,7 @@ You've probably been added to some Slack channels. We like sharing information [
 ## Some housekeeping
 
 - You will have at least weekly 1:1 meetings with Gareth or Sarah, and others as required to discuss your work. 
+- Please do a [standup](../how-we-work/standups.md) every day briefly describing your goals for that day. Many of us do these at around 9AM, but depending on your agreed work hours for Ritza, do it whenever makes the most sense.
 - You should have a shared Google Doc for keeping notes during these meetings. You're encouraged to add any questions or things you want to work through in the meetings. See more at [https://ritza.co/handbook/how-we-work/one-on-ones/](https://ritza.co/handbook/how-we-work/one-on-ones/). 
 - You should keep a basic timesheet recording how many hours you work per day, and on what projects. You can use [this template](https://docs.google.com/spreadsheets/d/1ScXlKUlj9Wz_bqUu4iuwpwqU8Xzzc8_qTQK_SZd1AWE/edit#gid=0) or something similar.
 - If you are an independent contractor, you need to [invoice us](https://ritza.co/handbook/how-we-work/invoicing-guidelines/), so make sure you are aware of the dates and details there to get paid.
