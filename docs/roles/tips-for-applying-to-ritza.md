@@ -1,32 +1,28 @@
-# Information and tips for applying to Ritza
+# Applying to Ritza
 
-We get more applications than we can process or respond to. We do not have an HR team. The upside of this is that if we engage with you after reviewing your application, you will immediately get personal attention from a decision maker. We won't make you jump through hoops for weeks or months just to ghost you at the end of the process. 
+We get more applications than we can process or respond to. We don't have an HR team. 
 
-The downside of this is that we do not have the capacity to respond to every single applicant. If you apply and do not hear back from us, please consider your application unsuccessful. We keep all applicants on file and regularly reach out to existing applicants months or years later if a future role looks like a good fit.
+Upside: If we engage with you after reviewing your application, you will immediately get personal attention from a decision maker. We won't make you jump through hoops for weeks or months, just to ghost you at the end of the process. 
 
-Here are some things you can do to ensure you application is **unsuccessful**.
+Downside: We don't have the capacity to respond to every single applicant. 
 
-## Spam us regularly and on multiple channels
+If you don't hear from us after applying, please consider your application unsuccessful. 
 
-If you follow up on your application after a few hours or a few days, or try to contact us on multiple channels (Slack, email, filling out the form multiple times, or doing anything to try unfairly get more of our attention than other applicants), we will put your application to the back of the queue.
+We keep all applications on file and may reach out to existing applicants months or even years later if a new role looks like a good fit.
 
-## Apply in a way that is not the way we ask you to apply
+## Tips for increasing your application's chance of success
 
-If we ask you to apply by filling out our application form and you instead email your CV and say that you are applying, but do not the fill out the form, we will not consider your application. If you write a DM on Slack saying 'hi', we will probably ignore you. If you write on Slack saying "hi I am interested in the job", we will probably ignore you. If you write "hi is this position still available?" on Slack, we will probably ignore you.
+We like applications that:
 
-## Leave most of the fields in the form blank
+- Include a writing sample, even if it's a sample you aren't particularly proud of or haven't published.
+- Give us a sense of who you are.
 
-We say that you can leave out fields that do not seem relevant, but if you leave out many or most of the fields we will probably ignore your application.
+You are less likely to hear from us if you:
 
-## Send a very very long CV
-
-Your CV should ideally be one page long. The most relevant information (previous experience and highest level of education) should be at the top. If your CV is 8 pages about your primary school and the fact that you have 10 years of technical writing experience is hidden on page 8, we'll probably ignore your application.
-
-## Send a very very short CV
-
-If you CV has two sentences with hardly any information about your education or previous work experience, we will ignore your application.
-
-## Add to this form
-
-If you do anything that gets added to this page (they are all real examples), we will probably ignore your application.
+- **Spam us regularly and on multiple channels.** If you follow up on your application after a few hours or a few days, or try to contact us on multiple channels (Slack, email, filling out the form multiple times), or do anything to try get more of our attention, we will move your application to the back of the queue.
+- **Don't follow the application process.** We will only consider applications made through our application form. Emails and Slack messages will be ignored.
+- **Leave most of the fields in the form blank.** Our form tells you to leave out fields that don't seem relevant, but if you leave out many or most of the fields, we will probably ignore your application.
+- **Send a very, very long CV.** Your CV should ideally be one page long. Put the most relevant information at the top (previous experience and highest level of education). If your CV is 8 pages about your primary school achievements and your 10 years of technical writing experience is hidden on page 8, we'll probably ignore your application.
+- **Send a very, very short CV.** If your CV is two sentences with barely any information about your previous work experience or education, we will ignore your application.
+- **Add to this form.** If you do anything that gets added to this page (these are all real examples), we will probably ignore your application.
 
