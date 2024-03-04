@@ -16,6 +16,6 @@ We haven't had any strong conflicts of opinion in case like this historically. I
 
 * The writer is the "owner" of the draft and the QA engineer and editor will check any changes they aren't sure about before making them
 * Sometimes the QA engineer or editor will ask the writer to have another read through after their edits to ensure that they haven't made any changes the writer disagrees with
-* We use [our style guide](https://stleguide.ritza.co) by default
+* We use [our style guide](https://styleguide.ritza.co) by default
 * Sometimes our customers have their own style guide, or want to make final editorial changes on their side after we have delivered
 * We generally let customers do what they want to drafts after we have delivered them, unless it's unethical (e.g. using our content to lie about the capabilities of their product) in which case we will drop them.
