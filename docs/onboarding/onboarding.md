@@ -26,11 +26,19 @@ If you haven't used markdown before, take a tutorial. Anyone will do, e.g.
 
 Git is complicated! Don't feel bad asking for help, even with 'basic' questions.
 
-## Internship goals 
+## Internship or trial goals 
+
+Most Engineering Writers at Ritza come in either as an intern or on a trial project basis.
+
+## Internship goals
 
 Your internship is for you to gain experience and help us with real world projects for a limited time (often one month). In the last week of the internship, you'll do a presentation explaining what you worked on, what you think went well, and what you think could have gone better.
 
 Often, our interns apply for contract or full time roles with us after the internship is complete. We'll get to know you better during the internship and assess you on your technical, writing, and professional skills to figure out if you're a good fit for Ritza longer-term.
+
+## Trial goals
+
+If you are working with us on a trial project basis, you will probably have a fixed number of hours. Use these effectively to show us something at the end, even if it's incomplete. It's often tempting to do 'just one more thing' on the technical side, and this can sometimes result in you using up your time before starting on writing. Remember that we want to see both your technical and writing skills during the trial, so rather strictly timebox the hours you allocate to working on the technical side so that you also have some time to write up what you've done, even if neither are complete. It's better if we can see some incomplete code and an unfinished draft than if we see a finished code sample with no draft or vice versa.
 
 ## Ask questions and over communicate 
 
