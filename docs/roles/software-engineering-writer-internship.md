@@ -18,6 +18,6 @@ Ideally, you have some experience writing too, preferably in a non-fiction conte
 
 Apply by filling out [this form](https://forms.gle/iWTKqA6cgzKePGoL7). (Note that this is a generic form we use for several roles, so some fields may not apply).
 
-Email gareth@ritza.co if you have questions with 'INTERN ENGINEERING WRITER' as a subject.
+Email gareth-at-ritza-dot-co if you have questions with 'INTERN ENGINEERING WRITER' as a subject.
 
 [We are also hiring for several existing and future projects, so feel free to fill out the form if you’re interested in tech writing in general but don't meet the requirements mentioned above].

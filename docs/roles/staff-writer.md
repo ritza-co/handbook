@@ -16,6 +16,6 @@ You should have some experience as a professional softare engineer, developing s
 
 Apply by filling out [this form](https://forms.gle/iWTKqA6cgzKePGoL7) (note it is a generic form we use for all applications so some fields may not apply).
 
-Email editor@ritza.co if you have questions with 'STAFF ENGINEERING WRITER' as a subject.
+Email gareth-at-ritza-dot-co if you have questions with 'STAFF ENGINEERING WRITER' as a subject.
 
 [We are also hiring for several existing and future projects, so feel free to fill out the form if you’re interested in tech writing even if you’re not a perfect fit.]

@@ -29,5 +29,5 @@ Specifically, we are looking for:
 
 Fill out [this form](https://forms.gle/kHzDrwH9tMzA61Y78).
 
-If you have any questions, please email editor@ritza.co with the subject line `QA ENGINEER ROLE`.
+If you have any questions, please email editor-at-ritza-dot-co with the subject line `QA ENGINEER ROLE`.
 

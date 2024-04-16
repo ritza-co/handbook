@@ -31,7 +31,7 @@ If you are invoicing in South African Rands (ZAR), please make the invoice to:
 Ritza SA PTY LTD
 ```
 
-And email it in PDF format to `invoices-sa@ritza.co`. 
+And email it in PDF format to `invoices-sa-at-ritza-co`. 
 
 If you are invoicing in USD or EUR, please make the invoice to:
 
@@ -46,7 +46,7 @@ VAT number: NL864041895B01
 KVK registration: 86666606
 ```
 
-And email it in PDF format to invoices@ritza.co. 
+And email it in PDF format to invoices-at-ritza-dot-co. 
 
 Please do not send links to invoices hosted online. The email should have exactly one attachment (the invoice), and send one email per invoice if sending multiple invoices.
 

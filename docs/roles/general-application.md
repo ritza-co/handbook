@@ -9,4 +9,4 @@
 
 Apply by filling out [this form](https://forms.gle/iWTKqA6cgzKePGoL7). (Note that this is a generic form we use for several roles, so some fields may not apply).
 
-Email gareth@ritza.co if you have questions with 'ENGINEERING WRITER' as a subject.
+Email gareth-at-ritza-dot-co if you have questions with 'ENGINEERING WRITER' as a subject.
