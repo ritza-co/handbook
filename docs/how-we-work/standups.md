@@ -4,6 +4,25 @@ We do standups three times a week, on Monday, Wednesday and Friday mornings to b
 
 While our main project management is done on our ritza-articles board at an article level, it is helpful as a writer to avoid getting blocked and stay motivated by achieving smaller goals. Smaller tasks also allow for more collaboration as others can help or take over a smaller piece if necessary.
 
+## Goals of standups 
+
+The goal of standups is to 
+
+* Allow writers to interact more with a team, as some people find it isolating to work remotely alone all day
+* To break stuff into managable pieces and avoid writers block or being overwhelmed by having a 2-3 week task that is at 'blank page' stage
+* To enable more collaboration and have writers help each other out on writing or technical problems.
+* As a constantly up-to-date source of information to inform delivery estimates of larger projects
+* To help writers get better at estimation
+
+The goal of standups is not to push writers to working faster, producing more output, or be in a 'constant sprint' mode. While hopefully they create an environment conducive to more productivity and output, this should never be the goal. If they result in more output but stressed or burnt-out writers, then they have failed.
+
+## Format of standups 
+
+Writers take turns in a synchronous call, spending 5-10 minutes each on explaining what projects they are working on and breaking off tasks from these projects. They could also spend 1-2 minutes discussing previous tasks, and highlighting any learnings like incorrect estimations. 
+
+The team lead actively interrogates each task, discussing it with the writer to help the writer break it down into pieces that make sense, and discusses with the writer how they came to the estimated time, whether the definition of the task makes sense, and provides advice or input if required. If a discussion looks like it will take longer than a few minutes, it should be noted and taken offline - e.g. the team lead and writer can discuss it after the meeting 1:1, or discuss it later in the day on Slack.
+
+
 ## Tasks
 
 A task is a chunk of a project that 
@@ -22,7 +41,7 @@ Writers working an 8-hour day should schedule no more than 6 hours worth of task
 * A half page document summarizing learnings from some research about a new platform - e.g. how to onboard to it, whether a free trial or sandbox exists, the state of the documentation, and an estimate on how difficult it would be to integrate with some other platform
 * Fixing the infinite loop bug
 
-### Bad exammples of tasks are
+### Bad examples of tasks are
 
 * Working on foobar article
 * Reading about the fizz platform
