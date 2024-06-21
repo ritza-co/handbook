@@ -27,5 +27,5 @@ Initially we are looking for around 20-40 hours/month, but this has the potentia
 
 ## How to apply
 
-Email your CV and rates to editor-at-ritza-dot-co with the subject PART TIME EDITOR. Include the word 'unicorn' somewhere in the body of the email so that we know you read this, that you pay attention to detail, and that you aren't a bot.
+Fill out this [Google Form](https://forms.gle/nuXSRkFNVFnFsx3CA). Include the word 'unicorn' in the second-last field so that we know you read this, that you pay attention to detail, and that you aren't a bot. Email editor-at-ritza-dot-co with any questions.
 
