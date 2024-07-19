@@ -20,6 +20,7 @@ You're welcome to use whichever tool you are most comfortable with to provide ti
 
 * We have a [Google Sheet template](https://docs.google.com/spreadsheets/d/1ScXlKUlj9Wz_bqUu4iuwpwqU8Xzzc8_qTQK_SZd1AWE/edit?gid=0#gid=0) that you are welcome to use.
 * Some people prefer [Toggl](https://toggl.com/) or similar, which lets you export a PDF time sheet at the end of the month and share it with your invoice.
+* Another option is [Anuko](https://www.anuko.com). "It's totally free for individuals, one click to start and stop your sheet, has custom reports for the end of the month, can divide work into clients and projects, lots of extensions. And it's open source if you want to add your own extension. Just takes an hour to configure it properly at the start."
 
 ## Some more context about time tracking
 
