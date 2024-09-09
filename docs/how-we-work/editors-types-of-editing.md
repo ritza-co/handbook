@@ -2,6 +2,8 @@
 
 At Ritza, we focus on the following three types of editing: proofreading, modern technical editing, and writer-development editing.
 
+This document is primarily concerned with editing original texts produced by Ritza writers. To help you decide on the level of editing a text requires, see our explanation of [editing depth](editors-understanding-editing-depth.md).
+
 ## Proofreading
 
 The Ritza production process doesn't include a distinct proofreading phase. Instead, we ask our editors to pass the texts they have edited through a digital grammar- and spelling-correction tool like [Grammarly](https://www.grammarly.com/). 
@@ -30,7 +32,7 @@ Modern technical editing includes:
 * Changing passive voice to active voice.
 * Giving subsections descriptive headings.
 
-Take a look at our [guidelines for technical editors](editors-guidelines.md) for more detail about our approach to modern technical editing.
+Take a look at our [guidelines for technical editors](editors-guidelines.md) for more information about our approach to modern technical editing.
 
 ## Writer-development editing
 
@@ -41,3 +43,5 @@ Writer-development editing includes:
 * 1:1 calls with writers.
 * Collaboration on the writing process, including assistance with planning, outlining, developing an approach, structuring an argument, improving flow, and developing writing skills.
 * Developmental feedback on drafts.
+
+Read our document on [editing as coaching](editing-as-coaching.md) for more details on Ritza's approach to writer development.
