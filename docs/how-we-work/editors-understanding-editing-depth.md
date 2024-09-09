@@ -12,6 +12,7 @@ We divide editing into four categories according to depth:
     * Try to keep to the original structure and retain the original wording as much as possible.
     * Avoid introducing new content. It's best to assume that the writer knows the topic better than we do and we don't have direct access to the writer to double-check changes that may introduce inaccuracies.
     * Focus on grammar, clarity, and consistency. Language QA is about improving sentences, correcting errors, removing repetition, and ensuring consistency in punctuation, capitalization, and terminology.
+  
   Language QA should take around an hour per 1000 words, which includes running the text through Grammarly.
 * **Modern technical editing:** This is our standard editing approach to Ritza-produced writing. See a thorough breakdown of modern technical editing in our page describing the [types of editing we do at Ritza](editors-types-of-editing.md). This type of editing may take a little longer than an hour per 1000 words, it's far more collaborative and consultative than the other editing types, and it's likely to include a greater degree of sentence restructuring. More substantial restructuring of a text should be discussed beforehand with Gareth, Sarah, or the writer.
   
